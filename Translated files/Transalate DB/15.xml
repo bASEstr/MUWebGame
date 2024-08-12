@@ -1,0 +1,109 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<root version="Miracle 10" sysID="2" configName="Item type configuration" configId="15">	
+		<itemSort id="1" name="Equipment">
+			<itemType id = "1" name = "One-handed weapon" wt="1" des = "One-handed"/> 
+			<itemType id = "2" name = "Two-handed weapon" wt="2" des = "Hand"/><!--Heavily-->
+			<itemType id = "3" name = "bow" wt="4" des = "bow"/>
+			<itemType id = "4" name = "Crossbow" wt="4" des = "Crossbow"/>
+			<itemType id = "5" name = "Two-handed weapon" wt="2" des = "Long shank"/><!--Light soldier-->
+			<itemType id = "6" name = "Single Cane" wt="4" des = "Staff"/>
+			<itemType id = "7" name = "Arrow Vector" wt="3" des = "Arrow Vector"/>
+			<itemType id = "8" name = "shield" wt="3" des = "shield"/>
+			<itemType id = "9" name = "Magic Book" wt="3" des = "Magic Book"/>
+			
+			<itemType id = "11" name = "necklace"/>
+			<itemType id = "12" name = "girdle"/>	
+			<itemType id = "13" name = "Handguard"/>
+			<itemType id = "14" name = "Ring"/>
+			<itemType id = "15" name = "Shoe"/>
+			<itemType id = "16" name = "helmet"/>
+			<itemType id = "17" name = "Coronet"/>
+			<itemType id = "18" name = "Clothing"/>
+			<itemType id = "19" name = "cloak"/>
+			<itemType id = "20" name = "Pets"/>
+			<itemType id = "21" name = "Gaiters"/>
+			<itemType id = "22" name = "Shugo"/>
+			<itemType id = "23" name = "Wing"/>
+			<itemType id = "24" name = "Mounts"/>
+			<itemType id = "25" name = "Accessories"/>
+		</itemSort>
+		
+		<itemSort id="3" name="medicine">
+			<itemType id = "31" name = "Life Medicine"/>
+			<itemType id = "32" name = "Internal force drugs"/>
+			<itemType id = "33" name = "Life Elixir"/>
+			<itemType id = "34" name = "Internal Force Elixir"/>
+			<itemType id = "35" name = "Ling Dan"/>
+			<itemType id = "36" name = "Empirical character"/>
+		</itemSort>
+		
+		<itemSort id="4" name="Others">
+			<itemType id = "41" name = "Special props"/>
+			<itemType id = "42" name = "Common props"/>
+			<itemType id = "43" name = "Mercenary props"/>
+			<itemType id = "44" name = "Synthetic material"/>
+			<itemType id = "45" name = "Mounting props"/>
+			<itemType id = "46" name = "Treasure chest"/>
+			<itemType id = "47" name = "Mercenary training"/>
+			<itemType id = "48" name = "Fruit"/>
+			<itemType id = "49" name = "Wing"/>
+			<itemType id = "50" name = "Shugo"/>
+			<itemType id = "51" name = "vip"/>
+			<itemType id = "52" name = "Stone Set"/>
+			<itemType id = "53" name = "Skill upgrade"/>
+			<itemType id = "54" name = "buff"/>
+			<itemType id = "55" name = "Empirical character"/>
+			<itemType id = "56" name = "Role Experience Medicine"/>
+			<itemType id = "57" name = "Protection Shield Upgrade"/>
+			<itemType id = "58" name = "Shield Advanced"/>
+			<itemType id = "59" name = "The God of soldiers refining"/>
+			<itemType id = "60" name = "The Treasure of the sacred device"/>
+		</itemSort>
+		
+		<itemSort id="10" name="Skill Book">
+			<itemType id = "100" name = "Active Skills"/>
+			<itemType id = "101" name = "Warrior Skills"/>
+			<itemType id = "102" name = "Cheats fragment"/>
+			<itemType id = "103" name = "Passive Skills"/>
+		</itemSort>
+		
+		<itemSort id="12" name="Gemstone">
+			<itemType id = "131" name = "Ignoring defense gems"/>
+			<itemType id = "132" name = "Full-attribute Gems"/>
+			<itemType id = "133" name = "Attack Gems"/>
+			<itemType id = "134" name = "Defensive Gems"/>
+			<itemType id = "135" name = "Life-valued Gems"/>
+			<itemType id = "136" name = "Attack Success Gems"/>
+			<itemType id = "137" name = "Defense Success Gems"/>
+		</itemSort>
+
+		<itemSort id="16" name="Rune">
+			<itemType id = "161" name = "Rune"/>
+		</itemSort>
+		
+		<itemSort id="17" name="Forging materials">
+			<itemType id = "171" name = "Punch character"/>
+			<itemType id = "172" name = "Lucky material"/>
+			<itemType id = "173" name = "Blessing Gems"/>
+			<itemType id = "174" name = "Transfer materials"/>
+			<itemType id = "175" name = "Protective material"/>
+			<itemType id = "176" name = "Soul Jewel"/>
+			<itemType id = "177" name = "God Bless Gems"/>
+			<itemType id = "178" name = "Life gem"/>
+			<itemType id = "179" name = "Mayan gem"/>
+			<itemType id = "180" name = "Create gems"/>
+			<itemType id = "181" name = "Mount/wing reinforcement"/>
+		</itemSort>
+		
+
+		<itemSort id="22" name="Quests">
+			<itemType id = "221" name = "Mission"/>
+		</itemSort>
+		<itemSort id="23" name="Game coin">
+			<itemType id = "231" name = "Gold"/>
+			<itemType id = "232" name = "Diamond"/>
+			<itemType id = "233" name = "Tie Drill"/>
+		</itemSort>
+
+</root>

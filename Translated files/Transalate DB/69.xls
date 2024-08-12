@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<root version="奇迹10" sysID="2" configName="系统变量配置" configId="69">
+	<shell id="5">
+		<activity id="7" type="4" name="百度会员" isOpen="true">
+			<element id="701" item="2016,1000,0,0,-1;2015,5000000,0,0,-1;10063,1,0,0,-1;10064,1,0,0,-1" level="1" receiveType="3"/>
+			<element id="702" item="2016,1000,0,0,-1;2015,5000000,0,0,-1;10063,1,0,0,-1;10064,1,0,0,-1" level="2" receiveType="3"/>
+			<element id="703" item="2016,1000,0,0,-1;2015,5000000,0,0,-1;10063,1,0,0,-1;10064,1,0,0,-1" level="3" receiveType="3"/>
+			<element id="704" item="2016,1000,0,0,-1;2015,5000000,0,0,-1;10063,1,0,0,-1;10064,1,0,0,-1" level="4" receiveType="3"/>
+			<element id="705" item="2016,1000,0,0,-1;2015,5000000,0,0,-1;10063,1,0,0,-1;10064,1,0,0,-1" level="5" receiveType="3"/>
+			<element id="706" item="2016,1000,0,0,-1;2015,5000000,0,0,-1;10063,1,0,0,-1;10064,1,0,0,-1" level="6" receiveType="3"/>
+		</activity>
+	</shell>
+	<buff>
+		<element level="0" buffId="70021" buffLevel="1"/>
+		<element level="1" buffId="70022" buffLevel="1"/>
+		<element level="2" buffId="70022" buffLevel="1"/>
+		<element level="3" buffId="70023" buffLevel="1"/>
+		<element level="4" buffId="70023" buffLevel="1"/>
+		<element level="5" buffId="70024" buffLevel="1"/>
+		<element level="6" buffId="70024" buffLevel="1"/>
+	</buff>
+</root>

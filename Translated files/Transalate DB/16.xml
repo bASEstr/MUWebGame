@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<root version="Mu Europe 10" sysID="2" configName="Character panel property configuration" configId="16">	
+		<statSort id="1" name="first-level attributes" panel = "1" panelDes = "first-panel attributes" sortNoShow = "1">
+			<statType id = "1" name = "Power" />
+			<statType id = "2" name = "Agile"/>
+			<statType id = "4" name = "Int" />
+			<statType id = "3" name = "Constitution" />
+		</statSort>
+		
+		<statSort id="2" name="basic properties" panel = "1" panelDes = "first panel properties">
+			<statType id = "52" name = "Minimum Attack"/>
+			<statType id = "53" name = "Maximum Attack" />
+			<statType id = "61" name = "Attack rate" />
+			<statType id = "66" name = "Defense Rate" />
+			<statType id = "22" name = "Maximum Life"/>
+			<statType id = "27" name = "Maximum Mana" />
+			<statType id = "56" name = "Defense" />
+			<statType id = "202" name = "Attack speed"/>
+			<statType id = "401" name = "Skill At Power" />
+			<statType id = "37" name = "Max AG value" />
+			<statType id = "209" name = "Injury Enhanc" />
+			<statType id = "57" name = "Defense Enhanc" />
+		</statSort>
+		
+		<statSort id="3" name="Intensive Attack" panel = "2" panelDes = "Second Panel Properties">
+			<statType id = "241" name = "Exce hit rate" />
+			<statType id = "242" name = "Exce hit damage" />
+			<statType id = "244" name = "Lucky blow rate" />
+			<statType id = "245" name = "Lucky Bash Damage" />
+			<statType id = "204" name = "Ignore Defense" />
+			<statType id = "247" name = "Fatal Strike" />
+			<statType id = "249" name = "Fatal Damage" />
+			<statType id = "213" name = "Ignore Defense" />
+		</statSort>
+
+		<statSort id="4" name="Enhanced Resistance" panel = "2" panelDes = "Second Panel Properties">
+			<statType id="243" name="Excellent Resistance" />
+			<statType id="246" name="Lucky Resistance" />
+			<statType id="248" name="Fatal Resistance" />
+			<statType id="206" name="Injury Reflection" />
+			<statType id="212" name="Guard Reduction" />
+			<statType id ="32" name="Maximum guard value"/>
+			<statType id ="208" name=" Damage Reduction Probability"/>
+		</statSort>
+
+		<statSort id="5" name="other" panel = "2" panelDes = "second panel properties">
+			<statType id="23" name="Life Response" />
+			<statType id="28" name="Mana Value Reply" />
+			<statType id="33" name="Guard Response" />
+			<statType id="38" name="AG Value Reply" />
+			<statType id="24" name="Kill Life Response" />
+			<statType id="29" name="kill kill mana" />
+			<statType id="109" name="move speed" />
+			<statType id="501" name="money increase" />
+			<statType id="104" name="Experience Increase" />
+			<statType id="112" name="Good and bad value"/>
+		</statSort>
+</root>

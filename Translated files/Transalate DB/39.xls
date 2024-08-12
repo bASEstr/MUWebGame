@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root version="奇迹10" sysID="2" configName="物品类型配置" configId="39">
+<!--任务接收-->
+	<accept>
+         <task id="1100020" delay = "0">
+			<action type="arrow" value="9#Click to continue the task"/>
+        </task>
+         <task id="1100040" delay = "0">
+			<action type="arrow" value="9#Click to continue the task"/>
+        </task>
+         <task id="1100060" delay = "0">
+			<action type="arrow" value="9#Click to continue the task"/>
+        </task>
+         <task id="1100080" delay = "0">
+			<action type="arrow" value="9#Click to continue the task"/>
+        </task>
+         <task id="1103430" delay = "0">
+			<action type="arrow" value="9#Click to open the composition interface"/>
+        </task>
+         <task id="1100670" delay = "0">
+			<action type="arrow" value="9#Click to open the Scarlet Castle"/>
+        </task>
+         <task id="1100940" delay = "0">
+			<action type="arrow" value="9#Click to open the hero trial"/>
+        </task>
+         <task id="1100950" delay = "0">
+			<action type="arrow" value="9#Click to open BOSS attack"/>
+        </task>
+         <task id="1100140" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+         <task id="1100140" delay = "100">
+			<action type="arrow" value="8#VIP fly free, is wayward!"/>
+        </task>
+	<task id="1103430" delay = "100">
+			<action type="arrow" value="6#Click synthesis"/>
+        </task>
+	<task id="1100435" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+         <task id="1100435" delay = "100">
+			<action type="arrow" value="8#VIP fly free, is wayward!"/>
+        </task>
+	<task id="1100300" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+	<task id="1100140" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+	<task id="1100380" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+	<task id="1100440" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+  	 <task id="1100690" delay = "50">
+			<action type="fly" value="0"/>
+        </task>        
+  	 <task id="1100920" delay = "50">
+			<action type="fly" value="1"/>
+        </task> 
+  	 <task id="1100830" delay = "50">
+			<action type="fly" value="1"/>
+        </task> 
+  	 <task id="1103000" delay = "50">
+			<action type="fly" value="0"/>
+        </task> 
+  	 <task id="1100430" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+  	 <task id="1100740" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+  	 <task id="1100780" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+  	 <task id="1101100" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+  	 <task id="1103060" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+  	 <task id="1200090" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+  	 <task id="1100890" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+  	 <task id="1200040" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+  	 <task id="1100770" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+  	 <task id="1200050" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+  	 <task id="1103030" delay = "50">
+			<action type="fly" value="1"/>
+        </task>
+	 <task id="1100640" delay = "100"><!--进入第一个剧情副本-->
+			<action type="plot" value="1"/>
+     </task> 
+	 <task id="1101125" delay = "100"><!--进入第二个剧情副本-->
+			<action type="plot" value="2"/>
+     </task> 
+</accept>
+
+
+
+
+
+<!--value后值为索引的追踪链接的第几个,从0开始,不是后面的7,0;7,1项,是前面的具体链接-->
+
+
+<!--进度完成-->
+	<complete>
+         <task id="1100050" delay = "0">
+			<action type="arrow" value="9#Click to continue the task"/>
+        </task>
+  	 <task id="1100885" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+  	 <task id="1100943" delay = "50">
+			<action type="fly" value="0"/>
+        </task>
+
+	</complete>
+	
+<!--提交任务-->
+	<submit>
+	
+	</submit>	
+</root>

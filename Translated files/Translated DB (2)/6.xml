@@ -1,0 +1,181 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<message version="奇迹10" sysID="2" configId="6" configName="属性文本">
+
+	<type id="2" name = "Agile" des="Influence defensive success rate, attack speed, and provide base attack power for archers" prompt="0"/>
+	<type id="1" name = "Power" des="Influence the attack success rate, strengthen damage, and provide base attack power for the swordsman" prompt="0"/>
+	<type id="3" name = "Strength" des="Influence Life Limit, Defense Enhancement" prompt="0"/>
+	<type id="4" name = "Intel" des="Influence magic limit, skill attack power, and provide base attack power for magician" prompt="0"/>
+	<type id="5" name = "Full attribute" des="power*1, agile*1, physical*1, intelligence*1" prompt="0"/>
+	
+	<type id="21" name = "Life" des="When the life is 0, the character will die" prompt="0"/>
+	<type id="22" name = "Maximum Life" des="If you lose all your health you die" prompt="1" excellent="1"/>
+	<type id="23" name = "Response to life" des="Automatically restore 1 life every 5 seconds" prompt="1"/>
+	<type id="24" name = "Shame back blood" des=" Restore maximum percentage of health when killing a monster" prompt="1"/>
+	
+	<type id="26" name = "Mana" des="release skill consumption mana" prompt="0"/>
+	<type id="27" name = "Magic Max" des="Unleash Skill Mana" prompt="1"/>
+	<type id="28" name = "Magic Reply" des="Automatically restore 1 magic every 5 seconds" prompt="1"/>
+	<type id="29" name = "Shameback Blue" des=" Restore maximum mana percentage when killing monsters" prompt="1"/>
+	
+	<type id="31" name = "Protection value" des="Priority deducted against guarded value" prompt="0"/>
+	<type id="32" name = "Maximum guard value" des="Priority deduction of partial protective value when receiving damage" prompt="1"/>
+	<type id="33" name = "Guard response" des="Automatic reply to guard value every 5 seconds" prompt="1"/>
+	
+	<type id="36" name = "AG value" des="some special skill consumption AG value" prompt="0"/>
+	<type id="37" name = "maximum AG value" des="some special skill consumption AG value" prompt="1"/>
+	<type id="38" name = "AG value reply" des="Automatic reply to 5 AG values ​​every 5 seconds" prompt="1"/>
+	
+	
+	<type id="41" name = "Energy" des="Energy" prompt="0"/>
+	<type id="42" name = "Maximum energy value" des="Maximum energy value" prompt="0"/>
+	<type id="43" name = "Energy value reply" des="Energy value reply" prompt="0"/>
+	 
+	<type id="51" name = "Attack" des = "The higher the damage, the higher the damage caused" prompt="0" excellent="1"/>
+	<type id="52" name = "Min attack" des="the minimum limit of random attack power when attacking" prompt="1"/>
+	<type id="53" name = "Max attack" des="Maximum random attack power at attack" prompt="1"/>
+	 
+	<type id="56" name = "Defense" des="The higher the defense, the lower the damage received" prompt="1"/>
+	<type id="57" name = "Defense force" des="Percent Increase Defense Force" prompt="1"/>
+	<type id="61" name = "Attack Rate" des="The higher the attack success rate, the higher the chance of an attack hitting an enemy" prompt="1"/>
+	<type id="62" name = "Mid chance" des="The chance of a hit" prompt="0"/>
+	<type id="66" name = "Defense Rate" des="The higher the defense success rate, the higher the chance of evading the enemy's attack" prompt="1" elite="1"/>
+	<type id="67" name = "The chance to flash" des="You must avoid the risk of enemy attacks" prompt="0"/>
+	 
+	<type id="71" name = "weapon attack power" des="arm attack power" prompt="0"/>
+	<type id="72" name = "Weapon Min Attack" des="Weapon Minimum Attack" prompt="0"/>
+	<type id="73" name = "Best Weapon Attack" des="Maximum attack provided by Weapons" prompt="0"/>
+	 
+	<type id="75" name = "Add Attack Power" des="Add Attack Power" prompt="0"/>
+	<type id="76" name = "Add defense" des="Add defense" prompt="0"/>
+	<type id="77" name = "Additional ignoring damage" des="Additional ignoring damage" prompt="0"/>
+	<type id="78" name = "Add skill damage" des="Add skill damage" prompt="0"/>
+	
+	<type id="101" name = "Level" des="level" prompt="0"/>
+	<type id="102" name = "Experience" des="Experience" prompt="0"/>
+	<type id="103" name = "Maximum experience" des="Maximum experience" prompt="0"/>
+	<type id="104" name = "Add kill experience" des="Raise experience gained from killing monster" prompt="1"/>
+	<type id="105" name = "Player" des="Pokeco" prompt="0"/>
+	<type id="106" name = "bind game currency" des="bind game currency" prompt="0"/>
+	<type id="107" name = "Silver" des="Silver" prompt="0"/>
+	<type id="108" name = "Binding Silver" des="Binding Silver" prompt="0"/>
+	<type id="109" name = "Moving speed" des="Speed ​​of character walking" prompt="1"/>
+	<type id="110" name = "lucky" des="lucky" prompt="0"/>
+	<type id="111" name = "potential point" des="potential point" prompt="0"/>
+	<type id="112" name = "Sin value" des="active kill white name player, will increase sin value" prompt="0"/>
+	<type id="113" name = "Probability" des="Probability" prompt="0"/>
+	<type id="114" name = "Enhanced Success Rate" des="Enhanced Success Rate" prompt="0"/>
+	<type id="115" name = "enhanced failure does not rollback" des="enhanced failure does not rollback" prompt="0"/>
+	<type id="116" name = "enhanced failure not destroyed" des="enhanced failure not destroyed" prompt="0"/>
+	<type id="117" name = "equipment points" des="equipment points" prompt="0"/>
+	<type id="118" name = "Prop usage level decreases" des="Prop usage level decreases" prompt="0"/>
+	<type id="119" name = "PK mode" des="PK mode" prompt="0"/>
+	<type id="120" name = "Total Points" des="Total Points" prompt="0"/>
+	<type id="121" name = "War Criticism" des="War Crisis" prompt="0"/>
+	<type id="129" name = "Combat Capability" des="Combat Strength" prompt="0"/>
+	
+	
+	<type id="201" name = "Attack Range" des="Attack Range" prompt="0"/>
+	<type id="202" name = "Assault speed" des="The higher the attack speed, the shorter the skill CD" prompt="1" elite="1"/>
+	<type id="203" name = "Fatal Attacks" des="Fatal Attacks" prompt="0"/>
+	<type id="204" name = "Ignore defenses" des="When attacking, there is a chance to ignore all enemy defenses" prompt="1" excellent="1"/>
+	<type id="205" name = "Ignore guard value" des="ignore guard value" prompt="0"/>
+	<type id="206" name = "Mole Reflex" des="Injury to the attacker when receiving damage" prompt="1" excellent="1"/>
+	<type id="207" name = "Injury Absorption" des="Injury to Percentage Absorption" prompt="0"/>
+	<type id="208" name = "Damage reduction" des="Reduce the percentage chance of receiving damage yourself!" prompt="0" excellent="1"/>
+	<type id="209" name = "Critical Dmg" des="Percentage bonus to final damage" prompt="1"/>
+	<type id="210" name = "Forced damage" des=" Fixed damage to the opponent when attacking a place" prompt="0"/>
+	<type id="211" name = "Ignore harm" des="Disregard part of final damage" prompt="1"/>
+	<type id="212" name = "Protection Relief" des="The proportion of deducted guard value when receiving damage" prompt="0"/>
+	<type id="213" name = "Ignore Defense" des="When attacking, we must ignore enemy's defense force" prompt="1"/>
+	<type id="214" name = "PVP damage" des="PVP damage" prompt="0"/>
+	
+	
+	<type id="215" name = "Attempt response attack probability AG value" des=" Attack probability recovery response AG value" prompt="0"/>
+	<type id="216" name = "% attack recovery AG value" des="% attack recovery AG value" prompt="0"/>
+	
+	<type id="217" name = "attack probability reply blue" des="attack probability reply blue" prompt="0"/>
+	<type id="218" name = "attack blue percentage attack" des="attack blue percentage attack" prompt="0"/>
+	
+	<type id="219" name = "Return blood volume from damage probability" des="Recover blood volume from damage probability" prompt="0"/>
+	<type id="220" name = "Percentage of wound healing blood percentage" des="% of wound recovery blood volume" prompt="0"/>
+	
+	<type id="221" name = "Receiving protection against damage probability" des="Recovery protection against damage probability" prompt="0"/>
+	<type id="222" name = "Percentage of injury recovery protection value" des=" Percentage of injury recovery prevention value" prompt="0"/>
+	
+	<type id="223" name = "Injury deepens" des="Injury deepens" prompt="0"/>
+	
+	
+	<type id="241" name = "Excellent hit rate" des="In case of attack, extra chance of massive damage (number of green damage)" prompt="1" excellent="1"/>
+	<type id="242" name = "Extraordinary Damage" des="Injury bonus from a superb strike" prompt="1"/>
+	<type id="243" name = "Excellent Resistance" des="Reduce the chance of being defeated by the enemy" prompt="1"/>
+	<type id="244" name = "Lucky hit rate" des="The chance of directly causing maximum attack (blue damage number) when attacking" prompt="1"/>
+	<type id="245" name = "Lucky damage" des="Injury bonus from Lucky Strike" prompt="1"/>
+	<type id="246" name = "Fortune Resist" des="Reduce the chance of a lucky attack by the enemy" prompt="1"/>
+	<type id="247" name = "Fateful Strike Rate" des="The chance of double damage when attacking" prompt="1"/>
+	<type id="248" name = "Fatal Resistance" des="Reduce the chance of a fatal blow by the enemy" prompt="1"/>
+	<type id="249" name = "Fatal Injury" des="Additional Damage Gain" prompt="1"/>
+	
+	
+	<type id="401" name = "Skill Accident" des=" The percentage of skill damage increased when a skill is released" prompt="1"/>
+	<type id="402" name = "Percentage reduction in skill consumption blue" des=" % reduction in skill consumption blue" prompt="0"/>
+	<type id="403" name = "Percentage reduction in consumption of AGs by large strokes" des=" Percentage reduction in consumption of AGs by large strokes" prompt="0"/>
+	<type id="404" name = "Skill CD" des="skill CD" prompt="0"/>
+	<type id="405" name = "Failure speed" des="Failure speed" prompt="0"/>
+	<type id="406" name = "Number of skill roles" des="Skill role number" prompt="0"/>
+	<type id="407" name = "Skill Range" des="Skill Range" prompt="0"/>
+	<type id="408" name = "Skill time" des="Sing time" prompt="0"/>
+	<type id="409" name = "Time" des="Time" prompt="0"/>
+	<type id="410" name = "skill factor" des="skill factor" prompt="0"/>
+	
+	<type id="411" name = "Skill Damage" des="Skill Damage" prompt="0"/>
+	<type id="412" name = "Skill minimum attack" des="skill minimum attack" prompt="0"/>
+	<type id="413" name = "Skill maximum attack" des="Skill maximum attack" prompt="0"/>
+	<type id="416" name = "Weapon Damage" des="Weapon Damage" prompt="0"/>
+	
+	
+	<type id="301" name = "Poisoning" des="Poisoning" prompt="0"/>
+	<type id="302" name = "Poisoning resistance" des="Poisoning resistance" prompt="0"/>
+	
+	<type id="303" name = "Ice" des="Ice" prompt="0"/>
+	<type id="304" name = "Icy Resistance" des="Icy Resistance" prompt="0"/>
+	 
+	<type id="305" name = "Fitness" des="Fitness" prompt="0"/>
+	<type id="306" name = "Fitness Resistance" des="Fitness Resistance" prompt="0"/>
+	 
+	<type id="307" name = "Paralysis" des="Paralysis" prompt="0"/>
+	<type id="308" name = "Paralysis resistance" des="Paralysis resistance" prompt="0"/>
+	 
+	<type id="309" name = "Remove armor" des="Remove armor" prompt="0"/>
+	<type id="310" name = "Unblocked resistance" des="Disarm resistance" prompt="0"/>
+	 
+	<type id="311" name = "Disarm" des="Disarm" prompt="0"/>
+	<type id="312" name = "Disarming Resistance" des="Disarming Resistance" prompt="0"/>
+	 
+	<type id="313" name = "Lok Ma" des="Lok Ma" prompt="0"/>
+	<type id="314" name = "Lok-resistant" des="Lok-resistance" prompt="0"/>
+	 
+	<type id="315" name = "Suck blue" des="Suck blue" prompt="0"/>
+	<type id="316" name = "Suck blue resistance" des="suck blue resistance" prompt="0"/>
+	 
+	<type id="317" name = "Sucking blood" des="sucking blood" prompt="0"/>
+	<type id="318" name = "Vampire Resistance" des="Vampire Resistance" prompt="0"/>
+	 
+	<type id="319" name = "Suck AG" des="Suck AG" prompt="0"/>
+	<type id="320" name = "Suction AG Resistance" des="Suction AG Resistance" prompt="0"/>
+	 
+	<type id="321" name = "Spiral Protection SD" des="Protection SD" prompt="0"/>
+	<type id="322" name = "Spiratory protection SD resistance" des="Spiratory protection SD resistance" prompt="0"/>
+	
+	
+	
+	<type id="501" name = "Money increase" des=" Increase the number of gold coins dropped when killing a monster" prompt="1"/>
+
+	<type id="421" name = "Revenge Essence" des="Increase Role Attack Power" prompt="0"/>
+	<type id="422" name = "Strengthening Essence" des="Increase Role Force" prompt="0"/>
+	<type id="423" name = "Johnson Essence" des="Increase Role Health" prompt="0"/>
+	<type id="424" name = "Lucky Essence" des="Increasing Lucky Strike" prompt="0"/>
+	<type id="425" name = "Excellent Essence" des="Increase Exceptional Hit Damage" prompt="0"/>
+
+	
+	
+</message>

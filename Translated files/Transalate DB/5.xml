@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<root version="Miracle 10" sysID="2" configName="System Variable Configuration" configId="5">	
+	<MaxNameSize value="7" des="Maximum word limit for a name"/>
+	<NamePrefix value="s%." des="Name prefix"/>
+	<MaxGangNameSize value="6" des="Maximum word limit for gang names"/>
+</root>

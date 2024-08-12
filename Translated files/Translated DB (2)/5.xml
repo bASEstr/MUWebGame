@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<root version="奇迹10" sysID="2" configName="系统变量配置" configId="5">	
+<MaxNameSize value="7" des="Maximum number of words to be named"/>
+	<NamePrefix value="s%." des="Name prefix"/>
+	<MaxGangNameSize value="6" des="Maximum word limit for gang names"/>
+</root>

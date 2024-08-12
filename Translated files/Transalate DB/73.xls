@@ -1,0 +1,374 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<root version="Mu Europe 10" sysID="2" configName="Props access" configId="73">	
+
+		<item id="3036">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+
+		<item id="3003">
+			<text>#a:{0}1.Purchase special gift package#a#b#a:{1}2.Boss�Gothic-Sea(Line1)#a#b#a:{3}3.Atlantis(MonsterDrop)#a</text>
+			<links>
+			<link type="6" value="152,0"/>
+			<link type="13" value="1,3"/>
+			<link type="0" value="10014,-100664,-110331"/>
+			<link type="7" value="2"/>
+			</links>
+		</item>
+
+		<item id="3038">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3001">
+			<text>#a:{0}1.Boss•Demon-King(Line1) #a#b#a:{1}2.Boss•Blazing-Demons(Line1)#a#b#a:{3}3.Death-Desert(MonsterDrop)#a</text>
+			<links>
+			<link type="13" value="1,4"/>
+			<link type="13" value="1,5"/>
+			<link type="0" value="10005,73783,-51096"/>
+			<link type="7" value="2"/>
+			</links>
+		</item>
+
+		<item id="3002">
+			<text>#a:{0}1.Boss•Sorrow(Line1)#a#b#a:{1}2.Boss•Queen-of-the-Horned(Line1)#a#b#a:{4}3.Canteru-Site(MonsterDrop)#a#b#a:{5}4.Callent-Area-A(MonsterDrop)#a</text>
+			<links>
+			<link type="13" value="1,9"/>
+			<link type="13" value="1,10"/>
+			<link type="0" value="10009,-22170,30943"/>
+			<link type="0" value="10045,624,843"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3004">
+			<text>#a:{0}1.Boss•Magic Phoenix(Line1)#a#b#a:{2}2.Sky City (MonsterDrop)#a</text>
+			<links>
+			<link type="13" value="1,6"/>
+			<link type="0" value="10010,-40702,-103650"/>
+			<link type="7" value="1"/>
+			</links>
+		</item>
+
+		<item id="3005">
+			<text>#a:{0}1.Boss•Jungle-Summoner(Line1) #a#b#a:{1}2.Boss•Slaughter(Line1) #a#b#a:{4}3.Dark-Forest(MonsterDrop) #a#b#a:{5}4.Cantero(MonsterDrop)#a</text>
+			<links>
+			<link type="13" value="1,7"/>
+			<link type="13" value="1,8"/>
+			<link type="0" value="10007,66303,-66367"/>
+			<link type="0" value="10008,-82560,76898"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3007">
+			<text>#a:{0}1.Boss•Jungle-Summoner(Line1) #a#b#a:{1}2.Boss•Slaughter(Line1) #a#b#a:{4}3.Dark-Forest(MonsterDrop) #a#b#a:{5}4.Cantero(MonsterDrop)#a</text>
+			<links>
+			<link type="13" value="1,7"/>
+			<link type="13" value="1,8"/>
+			<link type="0" value="10007,66303,-66367"/>
+			<link type="0" value="10008,-82560,76898"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3037">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3006">
+			<text>#a:{0}1.Boss•Giant Titan（Line1）#a#b#a:{1}2.Boss•Barkas Commander（Line1）#a#b#a:{4}3.Zone B District（MonsterDrop）#a#b#a:{5}4.Wolf Spirit Fortress（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,11"/>
+			<link type="13" value="1,12"/>
+			<link type="0" value="10046,29746,-89429"/>
+			<link type="0" value="10015,70071,-60067"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3008">
+			<text>#a:{0}1.Boss•Medusa（Line1）#a#b#a:{1}2.Boss•Frost Giant Spider（Line1）#a#b#a:{4}3.An Ning Chi（MonsterDrop）#a#b#a:{5}4.Frost City（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,13"/>
+			<link type="13" value="1,14"/>
+			<link type="0" value="10013,642,-365"/>
+			<link type="0" value="10018,53165,70587"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+
+		<!--魔法师-->
+		<item id="3039">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3013">
+			<text>#a:{0}1.Purchase special gift package#a#b#a:{1}2.Boss•Hydra（Line1）#a#b#a:{3}3.Atlantis（MonsterDrop）#a</text>
+			<links>
+			<link type="6" value="152,0"/>
+			<link type="13" value="1,3"/>
+			<link type="0" value="10014,-100664,-110331"/>
+			<link type="7" value="2"/>
+			</links>
+		</item>
+
+		<item id="3041">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3011">
+			<text>#a:{0}1.Boss•Devil Zakan（Line1）#a#b#a:{1}2.Boss•Blaze（Line1）#a#b#a:{3}3.Desert of Death（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,4"/>
+			<link type="13" value="1,5"/>
+			<link type="0" value="10005,73783,-51096"/>
+			<link type="7" value="2"/>
+			</links>
+		</item>
+
+		<item id="3012">
+			<text>#a:{0}1.Boss•Sorrow（Line1）#a#b#a:{1}2.Boss•Queen of the Horned（Line1）#a#b#a:{4}3.Canteru Ruins（MonsterDrop）#a#b#a:{5}4.Zone A（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,9"/>
+			<link type="13" value="1,10"/>
+			<link type="0" value="10009,-22170,30943"/>
+			<link type="0" value="10045,624,843"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3014">
+			<text>#a:{0}1.Boss•Tenor Phoenix（Line1）#a#b#a:{2}2.Sky Castle（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,6"/>
+			<link type="0" value="10010,-40702,-103650"/>
+			<link type="7" value="1"/>
+			</links>
+		</item>
+
+		<item id="3015">
+			<text>#a:{0}1.Boss•Jungle Summoner（Line1）#a#b#a:{1}2.Boss•Slayer（Line1）#a#b#a:{4}3.Dark Forest（MonsterDrop）#a#b#a:{5}4.Canteru（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,7"/>
+			<link type="13" value="1,8"/>
+			<link type="0" value="10007,66303,-66367"/>
+			<link type="0" value="10008,-82560,76898"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3017">
+			<text>#a:{0}1.Boss•Jungle Summoner（Line1）#a#b#a:{1}2.Boss•Slayer（Line1）#a#b#a:{4}3.Dark Forest（MonsterDrop）#a#b#a:{5}4.Canteru（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,7"/>
+			<link type="13" value="1,8"/>
+			<link type="0" value="10007,66303,-66367"/>
+			<link type="0" value="10008,-82560,76898"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3040">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3016">
+			<text>#a:{0}1.Boss•Giant Titan（Line1）#a#b#a:{1}2.Boss•Barkas Commander（Line1）#a#b#a:{4}3.Zone B District（MonsterDrop）#a#b#a:{5}4.Wolf Spirit Fortress（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,11"/>
+			<link type="13" value="1,12"/>
+			<link type="0" value="10046,29746,-89429"/>
+			<link type="0" value="10015,70071,-60067"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3018">
+			<text>#a:{0}1.Boss•Medusa（Line1）#a#b#a:{1}2.Boss•Frost Giant Spider（Line1）#a#b#a:{4}3.An Ning Chi（MonsterDrop）#a#b#a:{5}4.Frost City（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,13"/>
+			<link type="13" value="1,14"/>
+			<link type="0" value="10013,642,-365"/>
+			<link type="0" value="10018,53165,70587"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+
+		<!--弓箭手-->
+		<item id="3044">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3023">
+			<text>#a:{0}1.Purchase special gift package#a#b#a:{1}2.Boss•Hydra（Line1）#a#b#a:{3}3.Atlantis（MonsterDrop）#a</text>
+			<links>
+			<link type="6" value="152,0"/>
+			<link type="13" value="1,3"/>
+			<link type="0" value="10014,-100664,-110331"/>
+			<link type="7" value="2"/>
+			</links>
+		</item>
+
+		<item id="3026">
+			<text>#a:{0}1.Boss•Giant Titan（Line1）#a#b#a:{1}2.Boss•Barkas-Commander（Line1）#a#b#a:{4}3.Zone-B-District（MonsterDrop）#a#b#a:{5}4.Wolf Spirit Fortress（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,11"/>
+			<link type="13" value="1,12"/>
+			<link type="0" value="10046,29746,-89429"/>
+			<link type="0" value="10015,70071,-60067"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3021">
+			<text>#a:{0}1.Boss•Devil Zarkan（Line1）#a#b#a:{1}2.Boss•Blaze（Line1）#a#b#a:{3}3.Desert of Death（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,4"/>
+			<link type="13" value="1,5"/>
+			<link type="0" value="10005,73783,-51096"/>
+			<link type="7" value="2"/>
+			</links>
+		</item>
+
+		<item id="3022">
+			<text>#a:{0}1.Boss•Sorrow（Line1）#a#b#a:{1}2.Boss•Queen of the Horned（Line1）#a#b#a:{4}3.Canteru Ruins（MonsterDrop）#a#b#a:{5}4.Zone A（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,9"/>
+			<link type="13" value="1,10"/>
+			<link type="0" value="10009,-22170,30943"/>
+			<link type="0" value="10045,624,843"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3025">
+			<text>#a:{0}1.Boss•Sorrow（Line1）#a#b#a:{1}2.Boss•Queen of the Horned（Line1）#a#b#a:{4}3.Canteru Ruins（MonsterDrop）#a#b#a:{5}4.Zone A（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,9"/>
+			<link type="13" value="1,10"/>
+			<link type="0" value="10009,-22170,30943"/>
+			<link type="0" value="10045,624,843"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3042">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3043">
+			<text>1.The main line task is obtained</text>
+			<links>
+			</links>
+		</item>
+
+		<item id="3028">
+			<text>#a:{0}1.Boss•Medusa（Line1）#a#b#a:{1}2.Boss•Frost Giant Spider（Line1）#a#b#a:{4}3.An Ning Chi（MonsterDrop）#a#b#a:{5}4.Frost City（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,13"/>
+			<link type="13" value="1,14"/>
+			<link type="0" value="10013,642,-365"/>
+			<link type="0" value="10018,53165,70587"/>
+			<link type="7" value="2"/>
+			<link type="7" value="3"/>
+			</links>
+		</item>
+
+		<item id="3024">
+			<text>#a:{0}1.Boss•Devil Zarkan（Line1）#a#b#a:{1}2.Boss•Blaze（Line1）#a#b#a:{3}3.Desert of Death（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,4"/>
+			<link type="13" value="1,5"/>
+			<link type="0" value="10005,73783,-51096"/>
+			<link type="7" value="2"/>
+			</links>
+		</item>
+
+		<item id="3027">
+			<text>#a:{0}1.Boss•Tenor Phoenix（Line1）#a#b#a:{2}2.Sky Castle（MonsterDrop）#a</text>
+			<links>
+			<link type="13" value="1,6"/>
+			<link type="0" value="10010,-40702,-103650"/>
+			<link type="7" value="1"/>
+			</links>
+		</item>
+
+		<!--被动技能-->
+		<item id="3033">
+			<text>#a:{0}1.Digging treasure for skill book on the 7th#a#b#b#c:{0xcc9933}Upgrade the essence of access#c#b130Level above mobs drop#b#a:{2}drop any Boss#a#b#a:{1}Gold Mall Purchase#a</text>
+			<links>
+			<link type="6" value="186,0"/>
+			<link type="6" value="113,3"/>
+			<link type="6" value="90,0"/>
+			</links>
+		</item>
+
+		<item id="3032">
+			<text>#a:{0}1.Get the skills book on the second day#a#b#b#c:{0xcc9933}Upgrade the essence of access#c#b130级以上小怪掉落#b#a:{2}drop any Boss#a#b#a:{1}Gold Mall Purchase#a</text>
+			<links>
+			<link type="6" value="114,0"/>
+			<link type="6" value="113,2"/>
+			<link type="6" value="90,0"/>
+			</links>
+		</item>
+
+		<item id="3031">
+			<text>#a:{0}1.Miracle treasure#a#b#b#c:{0xcc9933}Upgrade the essence of access#c#b130级以上小怪掉落#b#a:{2}drop any Boss#a#b#a:{1}Gold Mall Purchase#a</text>
+			<links>
+			<link type="6" value="139,0"/><!--奇迹宝-->
+			<link type="6" value="113,2"/><!--商城-->
+			<link type="6" value="90,0"/>
+			</links>
+		</item>
+
+		<item id="3034">
+			<text>#a:{0}1.Mall Purchase#a#b#b#c:{0xcc9933}Upgrade the essence of access#c#b#a:{2}drop any Boss#a#b#a:{1}Gold Mall Purchase#a</text>
+			<links>
+			<link type="6" value="113,3"/>
+			<link type="6" value="113,2"/>
+			<link type="6" value="90,0"/>
+			</links>
+		</item>
+
+		<item id="3035">
+			<text>#a:{0}1.Mall Purchase#a#b#b#c:{0xcc9933}Upgrade the essence of access#c#b#a:{2}drop any Boss#a#b#a:{1}Gold Mall Purchase#a</text>
+			<links>
+			<link type="6" value="113,3"/>
+			<link type="6" value="113,2"/>
+			<link type="6" value="90,0"/>
+			</links>
+		</item>
+</root>

@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='utf-8'?>
+<message version="Mu Europe" sysID="2" sysName="Various system configurations" configId="1" configName="Prompt text">
+	<sort name="System"><!--id 1 - 1000-->	
+		<type id="1" des="Success"/>
+		<type id="2" des="A system error occurred. Please try again later"/>	
+		<type id="3" des="Area"/>
+		<type id="4" des="Current version and cross-service version do not match"/>
+		<type id="5" des="There are too many people on the server. Please try again later."/>
+		<type id="6" des="Incorrect server"/>
+		<type id="7" des="Cross-server cannot do this"/>
+		<type id="8" des="Item error"/>
+		<type id="9" des="This account is already logged in"/>
+		<type id="10" des="Your network is abnormal and the connection is closed"/>
+		<type id="11" des="This account is in the game, please try again later"/>
+	</sort>
+	
+	<sort name="Character"><!--id 1001 - 2000-->
+		<type id="1001" des="You have reached the maximum number of roles currently created"/>
+		<type id="1002" des="Duplicate name"/>
+		<type id="1003" des="The name contains illegal characters, please re-enter"/>
+		<type id="1004" des="The role is incorrect"/>	
+		<type id="1005" des="The current potential is insufficient"/>
+		<type id="1006" des="The potential points have been filled in incorrectly. Please re-enter it."/>
+		<type id="1007" des="Potential reaches the upper limit"/>
+		<type id="1008" des="There is no assigned potential point"/>
+		<type id="1009" des="Current health is full, no need to restore"/>
+		<type id="1010" des="The current mana is full, no need to restore"/>
+		<type id="1011" des="Not enough gold coins"/>
+		<type id="1012" des="Invalid shortcut bar location"/>
+		<type id="1013" des="No corresponding shortcut key"/>
+		<type id="1014" des="The item type is incorrect and cannot be placed in the shortcut key"/>
+		<type id="1015" des="Diamond Less"/>
+		<type id="1016" des="Insufficient Points"/>
+		<type id="1017" des="People's rank reached the highest"/>
+		<type id="1018" des="Unable to join experience"/>
+		<type id="1019" des="Inexperienced, unable to upgrade"/>
+		<type id="1020" des="Mate"/>
+		<type id="1021" des="The other party is not online"/>
+		<type id="1022" des="There is no corresponding attribute point"/>
+		<type id="1023" des="You have been killed by %n%"/>
+		<type id="1024" des="This map cannot be hung up."/>
+		<type id="1025" des="No more than the number of Vip grades or flying shoes"/>
+		<type id="1026" des="In Collection..."/>
+		<type id="1027" des="Cannot change thread in copy"/>
+		<type id="1028" des="Please leave the copy first"/>
+		<type id="1029" des="level limit, need to reach %s% level"/>
+		<type id="1030" des="level limit, need to reach master %s% level to enter"/>
+		<type id="1031" des="You must have wings to enter the city of the sky"/>
+		<type id="1032" des="At CD Time"/>
+		<type id="1033" des="Incorrect target point"/>
+		<type id="1034" des="Current attribute cannot continue to wash point"/>
+		<type id="1035" des="This feature has not been turned on"/>
+		<type id="1036" des="Current World Rank #c:{0x66CC33}%s%#c#b Your rank is lower than the World Rank #c:{0x66CC33}%m% Level #c#b Experience increased #c:{0x66CC33}%n%%#c"/>
+		<type id="1037" des="Current World Rank #c:{0x66CC33}%s%Level#c#b Your rank is higher or lower than World Rank Within #c:{0x66CC33}%d% Level #c#b can not enjoy the world level bonus"/>
+		<type id="1038" des="Master"/>
+		<type id="1039" des="none"/>
+		<type id="1040" des="The role name cannot exceed %s% words"/>
+		<type id="1041" des="Boss delivery cooling, please try again later"/>
+		<type id="1042" des="Hello, deleting files and clothing is not yet open for payment function"/>
+		<type id="1043" des="Why don't you have enough diamonds to recharge?"/>
+		<type id="1044" des="Go to top-up"/>
+		<type id="1045" des="Replenishment Tip"/>
+		<type id="1046" des="Can't change thread during battle"/>
+		<type id="1047" des="Can't be sent during battle"/>
+		<type id="1048" des="Can't enter copy in battle"/>
+		<type id="1049" des="No people on the list"/>
+		<type id="1050" des="Updated rank every 10 minutes"/>
+		<type id="1051" des="You cannot add yourself as a friend"/>
+		<type id="1052" des="This player is already in the friends list"/>
+		<type id="1053" des="This player is already on the blacklist"/>
+		<type id="1054" des="Up to the limit of friends"/>
+		<type id="1055" des="Maximum number of blacklists"/>
+		<type id="1056" des="You cannot blacken yourself"/>
+		<type id="1057" des="Are you sure you want to remove #F{c=0x66CC33}%s%#F from your friends list?"/>
+		<type id="1058" des="Are you sure you want to remove #F{c=0x66CC33}%s%#F from the enemy list?"/>
+		<type id="1059" des="Are you sure you want to remove #F{c=0x66CC33}%s%#F from the blacklist?"/>
+		<type id="1060" des="This player does not exist"/>
+		<type id="1061" des="Add friend success"/>
+		<type id="1062" des="This player is not on the application list"/>
+		<type id="1063" des="Player #F{c=0x66CC33}%s%#F is your friend. Are you sure you want to blacklist him?"/>
+		<type id="1064" des="Successfully added #c:{0x00ff00}%s%#c and other players are friends"/>
+		<type id="1065" des="You are in the other person's black list and cannot add friends"/>
+		<type id="1066" des="The current lucky value is not full"/>
+		<type id="1067" des="Today has promised"/>
+		<type id="1068" des="Wishing to get reward #c:{0x66CC33}Experience %s%#c"/>
+		<type id="1069" des="This player is not your friend"/>
+		<type id="1070" des="You are not a friend of this player"/>
+		<type id="1071" des="The other party's lucky value is full"/>
+		<type id="1072" des="Your number of blessings for today is full"/>
+		<type id="1073" des="You already blessed this friend"/>
+		<type id="1074" des="Blessings succeed, get coins %s%"/>
+		<type id="1075" des="Successfully added #c:{0x00ff00}%s%#c is a friend"/>
+		<type id="1076" des="Are you sure you want to add player #F{c=0x66CC33}%s%#F to the blacklist?"/>
+		<type id="1077" des="Blacklist added successfully"/>
+		<type id="1078" des="Wish to succeed and gain experience %s%"/>
+		<type id="1079" des="Open after the %s% level of the leaderboard"/>
+	</sort>
+	
+	<sort name="package"><!--id 2001 - 3000-->
+		<type id="2001" des="Backpack reaches the upper limit"/>
+		<type id="2002" des="Extension Failed"/>
+		<type id="2003" des="Insufficient backpack space"/>
+		<type id="2004" des="Knapsack Full"/>
+		<type id="2005" des="Knapsack type does not exist"/>
+		<type id="2006" des="The warehouse is full"/>
+		<type id="2007" des="Cannot move items to a treasure hunt warehouse"/>
+		<type id="2008" des="Forbidden to move"/>
+		<type id="2009" des="Knapsack Update"/><!--This is a special prompt-->
+		<type id="2010" des="Become a VIP to open a portable warehouse"/>
+		<type id="2011" des="Not enough space for Treasure warehouse"/>
+		<type id="2012" des="Successfully Removed Treasure Store Items"/>
+		<type id="2013" des="Incorrect number of inputs"/>
+	</sort>
+	
+	<sort name="Article"><!--id 3001 - 4000-->
+		<type id="3001" des="insufficient number of items"/>
+		<type id="3002" des="Item does not exist"/>
+		<type id="3003" des="The item cannot be used directly"/>
+		<type id="3004" des="Not enough people can't use items"/>
+		<type id="3005" des="The item is in transaction status and cannot be used"/>
+		<type id="3006" des="Occupation does not match, cannot use"/>
+		<type id="3007" des="This item cannot be used in batches"/>
+		<type id="3008" des="Item is cooling down"/>
+		<type id="3009" des="Item exchange position is incorrect"/>
+		<type id="3010" des="Wrong number of item splits entered"/>
+		<type id="3011" des="Incorrect number of items entered"/>
+		<type id="3012" des="Item cannot be split"/>
+		<type id="3013" des="Cannot save items"/>
+		<type id="3014" des="The item cannot be sold"/>
+		<type id="3015" des="There is no corresponding return shopping item"/>
+		<type id="3016" des="Unmatched gender, unable to use"/>
+		<type id="3017" des="expiration time"/>
+		<type id="3018" des="There is no corresponding item"/>
+		<type id="3019" des="Become a VIP to purchase VIP products"/>
+		<type id="3020" des="The number available today is full and you cannot continue to use"/>
+		<type id="3021" des="#c:{0x00ff00}Enabled #c"/>
+		<type id="3022" des="Red name cannot be purchased"/>
+		<type id="3023" des="Luck"/>
+		<type id="3024" des="Collect Skills"/>
+		<type id="3025" des="Bag"/>
+		<type id="3026" des="Random Lucky Attributes"/>
+		<type id="3027" des="Excellent Attributes"/>
+		<type id="3028" des="Random special attributes"/>
+		<type id="3029" des="Random Master Properties"/>
+		<type id="3030" des="Add random attributes"/>
+		<type id="3031" des="Current"/>
+		<type id="3032" des="subordinate increase"/>
+		<type id="3033" des="Not enough revival props to resurrect"/>
+		<type id="3034" des="There is not enough attribute point to use "/>
+		<type id="3035" des="The attribute point is full and you cannot continue using"/>
+		<type id="3036" des="Activation"/>
+		<type id="3037" des="extra%s%grade"/>
+		<type id="3038" des="Already have the same buff, can't overlap"/>
+		<type id="3039" des="Buff has been overlapped to the top and cannot continue to use"/>
+		<type id="3040" des="The box does not exist"/>
+		<type id="3041" des="The item is not durable and does not require repair"/>
+		<type id="3042" des="The item is fully durable and must not be repaired"/>
+		<type id="3043" des="No use confirmation"/>
+		<type id="3044" des="Item expired"/>
+		<type id="3045" des="No evil value, items cannot be used"/>
+		
+		<type id="3046" des="Incorrect number of times"/>
+		<type id="3047" des="Insufficient power attribute points"/>
+		<type id="3048" des="Insufficient agile attribute points"/>
+		<type id="3049" des="Insufficient intellectual attribute points"/>
+		<type id="3050" des="Insufficient physical attribute points"/>
+		
+		<type id="3051" des="Deletion at %s%#f:{19}%n%]#f Drops"/>
+		<type id="3052" des="Opening %s% obtained"/>
+		<type id="3053" des="%n% has drawn %s%, it's so lucky!"/>
+		
+		<type id="3055" des="The character level exceeds the level set by the item and cannot be used."/>
+		<type id="3056" des="Necessary"/>
+		<type id="3057" des="In %s% kill #F{e=19}%n%[level]#F drop "/>
+		<type id="3058" des="Diamond"/>
+		<type id="3059" des="Tie Drill"/>
+		<type id="3060" des="Integral product does not exist"/>
+		<type id="3061" des="Insufficient points to buy"/>
+		<type id="3062" des="Gain %s% points"/>
+	</sort>
+	
+	<sort name="Popup box"><!--id 4001 - 5000-->
+		<type id="4001" des="Confirm"/>
+		<type id="4002" des="Cancel"/>
+		<type id="4003" des="Does it cost#F{c=0xff00ff}%s%#F Diamond, open#F{c=0xff00ff}%d%#F Backpack? #b This can be opened#F{c =0xff00ff}%f%#FPoint experience"/>
+		<type id="4004" des="Extended Backpack"/>
+		<type id="4005" des="Extended Warehouse"/>
+		<type id="4006" des="Do you want to consume #F{c=0xff00ff}SS#F#F{c=0xff00ff}Diamond#F to open #F{c=0xff00ff}XX#F warehouses? "/>
+		<type id="4007" des="Clear Confirmation"/>
+		<type id="4008" des="You will clear the runes at this location. Once cleared, the runes will disappear. Do you want to proceed?"/>
+		<type id="4009" des="Intensive Tips"/>
+		<type id="4010" des="attribute point is insufficient"/>
+		<type id="4011" des="This rig requires %s%. Your Attribute is insufficient. #b Is it assigned ?%ss% now to wear this rig?"/>
+		<type id="4012" des="point"/>
+		<type id="4013" des="Wearing Equipment"/>
+		<type id="4014" des="You have successfully assigned %s%. Click OK to immediately wear %SS%"/>
+		<type id="4015" des="Stop Trading"/>
+		<type id="4016" des="Your current #F{c=0xCC3333}PK value=%s%#F, the system prohibits you from using the store. Trading 1 hour online can eliminate 1 point PK value %m%"/>
+		<type id="4017" des="immediately eliminate PK values"/>
+		<type id="4018" des="renewal fee"/>
+		<type id="4019" des="Clear Gems"/>
+		<type id="4020" des="Are you sure to clear the embedded gem %s% ?#b#F{c=0xff0000}(the gem will be destroyed after removal) #F"/>
+		<type id="4021" des="Investment Management"/>
+		<type id="4022" des="Do you want to spend #F{c=0xff00ff}%price%#F, investment #F{c=0xff00ff}%name%#F?"/>
+		<type id="4023" des="one-click completion"/>
+		<type id="4024" des="Do you want to spend #F{c=0xff00ff}%price%#F diamonds, complete the task of #F{c=0xff00ff}%name%#F with one click?"/>
+		<type id="4025" des="There is a Binding Item"/>
+		<type id="4026" des="synthetic tips"/>
+		<type id="4027" des="After using the binding material, the product will also become bound and determine synthesis?"/>
+		<type id="4028" des="Buy Equipment"/>
+		<type id="4029" des="%s% is no longer valid, please purchase one more piece of equipment at the #F{c=0xff00ff} backpack #F inside the backpack."/>
+		<type id="4030" des="In one click, put synthetic material"/>
+		<type id="4031" des="After exiting the magical land, the remaining time will not be recovered. Are you sure to exit?"/>
+		<type id="4032" des="You have not opened the remote warehouse function yet. Whether to go to #F{c=0x66CC33}, Mu Europe #F is looking for #F{c=0x66CC33} Warehouse Administrator #F? #F{c=0x3399FF} Enable VIP to use remote repository feature #F, %s%)"/>
+		<type id="4033" des="Click to view VIP function"/>
+		<type id="4034" des="N O T E"/>
+		<type id="4035" des="Cannot do this in copy"/>
+		<type id="4036" des="God Refinery"/>
+		<type id="4037" des="Are you sure that you spend %s% of diamonds for magic?"/>
+	</sort>
+	
+	
+	<sort name="Equipment"><!--id 5001 - 6000-->
+		<type id="5001" des="No suitable location, unable to equip"/>
+		<type id="5002" des="This item cannot be enhanced"/>
+		<type id="5003" des="Equipment has reached the highest intensive star"/>
+		<type id="5004" des="Lucky material is wrong and cannot be used"/>
+		<type id="5005" des="This item cannot have additional attributes"/>
+		<type id="5006" des="The equipment addition has reached the maximum value and cannot be added."/>
+		<type id="5007" des="This equipment type cannot be inherited attribute"/>
+		<type id="5008" des="This equipment type attribute cannot be inherited"/>
+		<type id="5009" des="There must not be a gem on the transfer equipment. Please dismount it first."/>
+		<type id="5010" des="Cannot choose body equipment as transfer equipment, please remove "/>
+		<type id="5011" des="The reinforcement level of the inherited equipment must be less than the reinforcement level of the transfer equipment"/>
+		<type id="5012" des="Equipment with enhanced level 5 or higher for equipment inheritance"/>
+		<type id="5013" des="This item type cannot be runescaped."/>
+		<type id="5014" des="This item is not a rune material and cannot be inlaid."/>
+		<type id="5015" des="This equipment rune has not yet been opened. Please upgrade the enhanced level first"/>
+		<type id="5016" des="This equipment rune position has not been turned on"/>
+		<type id="5017" des="Equipment already has the same rune and cannot continue to be inlaid"/>
+		<type id="5018" des="No corresponding synthesis"/>
+		<type id="5019" des="The maximum number of mosaics has been reached"/>
+		<type id="5020" des="This item cannot be gem-set."/>
+		<type id="5021" des="is not a gem, it cannot be inlaid"/>
+		<type id="5022" des="Equipment has no holes and cannot be inlaid"/>
+		<type id="5023" des="There is no corresponding gem"/>
+		<type id="5024" des="No equipment to redeem"/>
+		<type id="5025" des="This item cannot be used to redeem points"/>
+		<type id="5026" des="This item cannot be used for gemstone conversion"/>
+		<type id="5028" des="Only equipment for the parcel and equipment can be repaired"/>
+		<type id="5029" des="No repairable equipment"/>
+		<type id="5030" des="Full time, no repair required"/>
+		<type id="5031" des="The same item cannot be inherited"/>
+		<type id="5032" des="There are no runes at this location"/>
+		<type id="5033" des="Slots are full" />
+		<type id="5034" des="This gem cannot be converted to the current specified element"/>
+		<type id="5035" des="Oops, it's bad luck, the synthesis has failed, please work harder."/>
+		<type id="5036" des="is not an excellent equipment and cannot be redeemed for points"/>
+		<type id="5037" des="base probability"/>
+		<type id="5038" des="This equipment has lucky attributes"/>
+		<type id="5039" des="Use Lucky Item"/>
+		<type id="5041" des="Unable to perform rune-keeping on target equipment"/>
+		<type id="5042" des="Materials and equipment cannot be run down"/>
+		<type id="5043" des="Insufficient star rating for target equipment, not enough holes for heritage"/>
+		<type id="5044" des="Materials and equipment have no runes and cannot be passed on."/>
+		<type id="5045" des="The target equipment already has a rune, and the original runes will disappear when inherited. Continue?"/>
+		<type id="5046" des="The target equipment already has a rune. It cannot be passed on. Please run the rune first."/>
+		<type id="5047" des="consumer data error"/>
+		<type id="5048" des="This equipment cannot be fitted with this gemstone"/>
+		<type id="5049" des="This equipment already has the same type of gem"/>
+		<type id="5050" des="The rune fails to inlay and consumes a rune item"/>
+		<type id="5051" des="Gemstone Mosaic Fails, Consuming a Gemstone Item"/>
+				
+		<type id="5052" des="There is no synthetically selected item"/>
+		<type id="5053" des="This option does not have this material"/>
+		<type id="5054" des="The selected material does not exist"/>
+		<type id="5055" des="The filled-in materials do not meet the conditions"/>
+		<type id="5056" des="Material repeated"/>
+		<type id="5057" des="Material Insufficient"/>
+		<type id="5058" des="Synthesis Failed"/>
+		<type id="5059" des="Needed to put the props did not put all"/>
+		
+		
+		<type id="5060" des="Material Mount Strength must be higher than the target mount"/>
+		<type id="5061" des="Lack of target mounts"/>
+		<type id="5062" des="missing material mounts"/>
+		<type id="5063" des="Absence of Horseskin ?"/>
+		<type id="5064" des="The target is not a mount and cannot be blended"/>
+		<type id="5065" des="Material is not a mount and cannot be blended"/>
+		<type id="5066" des="Equipment cannot be upgraded"/>
+		<type id="5067" des="The upgraded equipment cannot be worn. Please remove the equipment to be upgraded"/>
+		<type id="5068" des="time-limited props cannot be forged"/>
+		<type id="5069" des="Equipment Upgrade Failed"/>
+		<type id="5070" des="equipment repair success"/>
+	</sort>
+	
+	<sort name="Tasks"><!--id 6001 - 6100-->
+		<type id="6001" des="The task does not exist."/>
+		<type id="6002" des="Failed to submit the task, the number of backpacks is not enough."/>
+		<type id="6003" des="Daily tasks fail to complete directly. Diamonds are not enough."/>
+		<type id="6004" des="We often fail to complete the regular task. Diamond is not enough."/>
+		<type id="6005" des="stars are full"/>
+		<type id="6006" des="Number of rings is full"/>
+		<type id="6007" des="Task not accepted"/>
+		<type id="6008" des="Insufficient Item"/>
+		<type id="6009" des="The reward task has been turned on"/>
+		<type id="6010" des="reached today's cap"/>
+		<type id="6011" des="Have you confirmed that it takes %s% of diamonds to complete the task directly?"/>
+		<type id="6012" des="Task Tips"/>
+		<type id="6013" des="Do you want to spend %s% diamonds for all your daily tasks?"/>
+		<type id="6014" des="Get %d Times Daily Task Bonus"/>
+		
+	</sort>
+
+	<sort name="Shield">
+		<type id="6101" des="Shield crystal is insufficient."/>
+		<type id="6102" des="Has reached the highest level."/>
+		<type id="6103" des="Has reached the highest order."/>
+		<type id="6104" des="Insufficient items."/>
+		<type id="6105" des="Lack of experience."/>
+	</sort>
+	
+	
+	<sort name="Skill"><!--id 8001 - 9000-->
+		<type id="8001" des="Insufficient blood, unable to use skills"/>
+		<type id="8002" des="Insufficient MP to use skills"/>
+		<type id="8003" des="Insufficient AG to use skills"/>
+		<type id="8004" des="The required skill does not exist or the grade is not enough"/>
+		<type id="8005" des="less than grade"/>
+		<type id="8006" des="Professional Not Full"/>
+		<type id="8007" des="The skill does not exist"/>
+		<type id="8008" des="Skill Not Learned"/>
+		<type id="8009" des="skills in cooldown time"/>
+		<type id="8010" des="Cannot skip learning skills"/>
+		<type id="8011" des="The skill has reached the maximum level"/>
+		<type id="8012" des="The skill has reached the corresponding level"/>
+		<type id="8013" des="Unskilled Objects"/>
+		<type id="8014" des="out of range"/>
+		<type id="8015" des="Can't attack yourself"/>
+		<type id="8016" des="Current map cannot be PK"/>
+		<type id="8017" des="in a safe area"/>
+		<type id="8018" des="No on the same map"/>
+		<type id="8019" des="less than PK minimum level"/>
+		<type id="8020" des="Novice, unable to be PK"/>
+		<type id="8021" des="In peace mode, unable to attack"/>
+		<type id="8022" des="The other person is in peace and cannot attack"/>
+		<type id="8024" des="In the same team, cannot attack"/>
+		<type id="8025" des="Unable to attack in the same combat alliance "/>
+		<type id="8026" des="Invalid Target"/>
+		<type id="8027" des="Skill Owner Action Restricted"/>
+		<type id="8028" des="Death, unable to attack"/>
+		<type id="8029" des="skill selected"/>
+		<type id="8030" des="The skill is not on the shortcut bar"/>
+		<type id="8031" des="Cannot be selected as the default skill"/>
+		<type id="8032" des="The mode you have selected is the same as the current one, without switching"/>
+		<type id="8033" des="Current map cannot switch modes"/>
+		<type id="8034" des="The grade is too low to switch to other modes"/>
+		<type id="8035" des="Non-free PK zone, the current sin value is limited and cannot attack the player"/>
+		<type id="8036" des="Player with protection cannot attack"/>
+		<type id="8037" des="Skills have been activated, no need to activate again"/>
+		<type id="8038" des="The specified location cannot pass, cannot teleport"/>
+		<type id="8039" des="Out of specified range, cannot teleport"/>
+		<type id="8040" des="The object is dead and cannot be treated"/>
+		<type id="8041" des="It's too late to charge forward"/>
+		<type id="8042" des="There are obstructions in the middle, unable to charge forward"/>
+		<type id="8043" des="There is not enough essence to upgrade"/>
+		<type id="8044" des="is not a passive skill"/>
+		
+	</sort>
+	
+	<sort name="Guild"><!--id 9001 - 10000-->
+		<type id="9001" des="You are already in the guild" />
+		<type id="9002" des="You have already applied for this combat alliance"/>
+		<type id="9003" des="Your application has reached the limit"/>
+		<type id="9004" des="There are too many people currently applying for the gang. Please try again later"/>
+		<type id="9005" des="Duplicate, please re-enter"/>
+		<type id="9006" des="Your permissions are insufficient"/>
+		<type id="9007" des="Farm Guild name cannot exceed 6 words"/>
+		<type id="9008" des="Fighting Guild name contains illegal characters"/>
+		<type id="9009" des="The other party has joined the gang"/>
+		<type id="9010" des="Squad number reached the limit"/>
+		<type id="9011" des="Please transfer the ally to other members first"/>
+		<type id="9012" des="Exit ally"/>
+		<type id="9013" des="After exiting the alliance, your contribution will be completely cleared. Please exercise caution!"/>
+		<type id="9014" des="The other party is not in the league"/>
+		<type id="9015" des="Cannot do this for yourself"/>
+		<type id="9016" des="The announcement contains illegal characters"/>
+		<type id="9017" des="Is offline"/>
+		<type id="9018" des="%s% minutes ago"/>
+		<type id="9019" des="%s%hours ago offline"/>
+		<type id="9020" des="%s%days ago" />
+		<type id="9021" des="%s% weeks ago"/>
+		<type id="9022" des="You have received benefits today"/>
+		<type id="9023" des="Creating a Warrant requires %s% Gold Coin"/>
+		<type id="9024" des="Insufficient gold coin required to upgrade your team"/>
+		<type id="9025" des="Due to the lack of diamonds to upgrade the alliance"/>
+		<type id="9026" des="Only the ally can upgrade the war league"/>
+		<type id="9027" des="Warring League is already the highest level"/>
+		<type id="9028" des="[%l%]Line%m%"/>
+		<type id="9029" des="The other party is already a deputy leader"/>
+		<type id="9030" des="The other party is not an ally" />
+		<type id="9031" des="I want to join"/>
+		<type id="9032" des="You have already applied to Zhanmeng #c:{0xCC33FF}%s%#c. Please wait patiently."/>
+		<type id="9033" des="Fighting League function has not been turned on"/>
+		<type id="9034" des="You have not joined the war league"/>
+		<type id="9035" des="Currently unable to do this operation"/>
+		<type id="9036" des="Your War Alliance Has Occupied Resurrection Statue" />
+		<type id="9037" des="Your War Alliance has Occupied Organization"/>
+		<Type id="9038" des="Roland Fighting Battle is Over" />
+		<type id="9039" des="Please beat the current player first"/>
+		<type id="9040" des="You must occupy the office to record."/>
+		<type id="9041" des="Only the owner can engrave Roland Crown"/>
+		<type id="9042" des="The operator cannot imprint"/>
+		<type id="9043" des="dissolve war league"/>
+		<type id="9044" des="Are you sure you want to disband the Champions League?"/>
+		<type id="9045" des="Roland canyon can not be dissolved in the battle for war"/>
+		<type id="9046" des="Roland canyon defeats alliance can't dismiss combat ally"/>
+		<type id="9047" des="Zhanmeng dissolution"/>
+		<type id="9048" des="Your Battle Union %s% has been disbanded"/>
+		<type id="9049" des="The Roland Gorge Contest has not opened yet"/>
+		<type id="9050" des="Your war squad is not eligible for Roland's hegemony."/>
+		<type id="9051" des="Appointment of position is incorrect"/>
+		<type id="9052" des="The other person has an existing position. Please dismiss or re-appoint"/>
+		<type id="9053" des="The other person has no position and cannot be removed"/>
+		<type id="9054" des="You have already received this award"/>
+		<type id="9055" des="You cannot claim this award"/>
+		<type id="9056" des="Already Deputy City Owner, please Dismiss Appointment"/>
+		<type id="9057" des="Already three elites, unable to continue to appoint"/>
+		<type id="9058" des="Landlords&lt;%s%&gt;"/>
+		<type id="9059" des="&lt;%s%&gt;"/>
+		<type id="9060" des="Roland Fighting Battle has not yet begun"/>
+		<type id="9061" des="Welcome %s% to join the league"/>
+		<type id="9062" des="%s% left the war league"/>
+		<type id="9063" des="%s% is killed by %k% in #F{c=0x66CC33}%m%#F."/>
+		<type id="9064" des="Go to Assistance"/>
+		<type id="9065" des="This player has joined or canceled the application"/>
+		<type id="9066" des="Do you want to transfer the ally to #c:{0x66CC33}%s%#c?"/>
+		<type id="9067" des="Transfer Mutator"/>
+		<type id="9068" des="Not enough for war confederal orders"/>
+		<type id="9069" des="send red envelope"/>
+		<type id="9070" des="Are you sure you want to send a %s% bonus diamond?"/>
+		<type id="9071" des="Are you sure you want to consume %s% diamonds to send a red envelope?"/>
+		<type id="9072" des="No more than the remaining number of red packets in the bundle"/>
+		<type id="9073" des="Square Alliance Bulletin cannot exceed 68 words"/>
+		<type id="9074" des="You have already received this red envelope"/>
+		<type id="9075" des="You have reached the limit for the number of red packets you have received today"/>
+		<type id="9076" des="This red envelope has been picked up"/>
+		<type id="9077" des="The red envelope has disappeared"/>
+		<type id="9078" des="This ally has been dissolved"/>
+		<type id="9079" des="%s% donated %m% Warrants to gain %m% points contribution"/>
+		<type id="9080" des="%s% is online"/>
+		<type id="9081" des="%s%Offline"/>
+		<type id="9082" des="Red envelope sent successfully"/>
+		<type id="9083" des="The red envelope has been robbed completely"/>
+		<type id="9084" des="Diamond Red Packet Received Successfully, You Received %s% Diamond"/>
+		<type id="9085" des="Watch your red packets successfully and you get %s% tie drills"/>
+		<type id="9086" des="You cannot enter the current level of magical land"/>
+		<type id="9087" des="Current Contribution Not Available"/>
+		<type id="9088" des="Your rank is too low to summon"/>
+		<type id="9089" des="There is currently a Boss summoned and cannot continue to summon"/>
+		<type id="9090" des="Insufficient number of remaining calls to summon"/>
+		<type id="9091" des="Not enough contribution from the current war league, can't summon "/>
+		<type id="9092" des="There is currently a Boss summoned and cannot continue to call or enter"/>
+		<type id="9093" des="To collect"/>
+		<type id="9094" des="Fight League rose to %s%"/>
+		<type id="9095" des="Current map cannot perform this operation"/>
+		<type id="9096" des="The opponent is on the map of Zhanmeng" />
+	</sort>
+	
+	<sort name="Collection"><!--id 10001 - 11000-->
+		<type id="10001" des="This object has disappeared"/>
+		<type id="10002" des="No %s%"/>
+		<type id="10003" des="Current status cannot perform this operation"/>		
+	</sort>
+	
+	<sort name="Falling objects"><!--id 11001 - 12000-->
+		<type id="11001" des="The item does not exist or has disappeared"/>
+		<type id="11002" des="Items in protection"/>
+		<type id="11003" des="%t%#n:{3}#c:{0x66CC33}%p%#cin#c:{0x66CC33}%m%#ckill#c:{0xCC3333}%b%#cDrop%i%"/>
+	</sort>
+	
+	<sort name="Goddess"><!--id 12001 - 13000-->
+		<type id="12001" des="God does not exist"/>
+		<type id="12002" des="Current Attitude Level"/>
+		<type id="12003" des="Insufficient energy value"/>
+		<type id="12004" des="Insufficient Protection Level"/>
+	</sort>
+	
+	<sort name="Mail"><!--id 13001 - 14000-->
+		<type id="13001" des="System mail"/>
+		<type id="13002" des="Can't delete props"/>
+		<type id="13003" des="The message has no props"/>
+	</sort>
+	
+	<sort name="Offline">
+		<type id="13051" des="This login gets %h% hours %m% separation line bonus"/>		
+	</sort>
+	
+	<sort name="Party"><!--id 14001 - 15000-->
+		<type id="14001" des="Party Not Yet Started"/>
+		<type id="14002" des="You are already in the Party"/>
+		<type id="14003" des="%t%Invite you to %d%, do you agree with "/>
+		<type id="14004" des="You are not in the team, you cannot use the team invitation function"/>
+		<type id="14005" des="You are not the captain and you cannot use the team invitation function"/>
+		<type id="14006" des="You have sent an invitation, please wait for your teammate to confirm"/>
+		<type id="14007" des="party Invitation"/>
+		<type id="14008" des="This invitation has expired"/>
+		<type id="14009" des="%s%quantity"/>
+		<type id="14010" des="You cannot enter %s% of current grade"/>
+		<type id="14011" des="The number of challenges you have today has been exhausted"/>
+		<type id="14012" des="%s% is cooling down"/>
+		<type id="14013" des="Cannot be encouraged in this Party"/>
+		<type id="14014" des="The effect of gold coins has reached the ceiling, please use diamonds to encourage"/>
+		<type id="14015" des="Inspired has reached the limit"/>
+		<type id="14016" des="Inspiration Failure"/>
+		<type id="14017" des="Inspired by success, life increased by 10%"/>
+		<type id="14018" des="Invigorating, damage increased by 10%"/>
+		<type id="14019" des="Your lack of gold coin encourages failure"/>
+		<type id="14020" des="Insufficient Your Diamond, Inspire Failure" />
+		<type id="14021" des="Enter Tip"/>
+		<type id="14022" des="This is a team copy. Are you sure you want to enter it alone?"/>
+		<type id="14023" des="Inspired #n:{3}Life increased by %s%"/>
+		<type id="14024" des="Inspired #n:{3}Increase %s%"/>
+		<type id="14025" des="Do you spend %s% diamonds to clear the copy's cooldown?"/>
+		<type id="14026" des="Clear Cool Tips"/>
+		<type id="14027" des="You don't need to clear the cooldown time"/>
+		<type id="14028" des="There are still no confirmed players in your team. Are you sure you want to enter?"/>
+		<type id="14029" des="You must collect at least Bronze I order"/>
+		<type id="14030" des="Get Tips"/>
+		<type id="14031" des="Would you like to spend %s% diamonds to receive rewards?"/>
+		<type id="14032" des="You have reached the highest level of trials"/>
+		<type id="14033" des="copy bonus"/>
+		<type id="14034" des="Congratulations on completing %s% and receiving the following award"/>
+		<type id="14035" des="Exit Tip"/>
+		<type id="14036" des="Withdrawing your copy now will lose a lot of experience and monetary rewards. Are you sure?"/>
+		<type id="14037" des="The current task is incorrect and cannot be entered"/>
+		<type id="14038" des="You have already participated in this event"/>
+		<type id="14039" des="The event has started and cannot enter"/>
+		<type id="14040" des="Failed Out"/>
+		<type id="14041" des="final winner"/>
+		<type id="14042" des="No one wins"/>
+		<type id="14043" des="You have unclaimed rewards, please claim"/> 
+		<type id="14044" des="Your rank is too low to enter"/>
+		<type id="14045" des="The number of people in the event reached the limit"/>
+		<type id="14046" des="Vip%s% to claim"/>
+		<type id="14047" des="Wrong number of recovery, please re-enter"/>
+		<type id="14048" des="Tie or diamond shortage"/>
+		<type id="14049" des="%s% recovery"/>
+		<type id="14050" des="Do you spend %b% band drills or %i% diamonds recover %t% times %d%? Take priority to remove drills" />
+		<type id="14051" des="Reply Error"/>
+		<type id="14051" des="successfully recovered%s%%i% times"/>
+		<type id="14052" des="You don't contribute enough to encourage failure"/>
+		<type id="14053" des="Contribution-inspired effects have reached the limit, please use diamonds to encourage"/>
+	</sort>
+	
+	<sort name="Tranzaction"><!--id 15001 - 16000-->
+		<type id="15001" des="The transaction has been locked"/>
+		<type id="15002" des="Need to lock transactions first"/>
+		<type id="15003" des="Wait each other to lock out"/>
+		<type id="15004" des="Incorrectly positioned"/>
+		<type id="15005" des="Placed the same item"/>
+		<type id="15006" des="Incorrect props placed"/>
+		<type id="15007" des="Bind Item cannot be traded"/>
+		<type id="15008" des="This item cannot be traded"/>
+		<type id="15009" des ="The transaction object does not exist"/>
+		<type id="15010" des ="The transaction has expired"/>
+		<type id="15011" des ="Distance too far, transaction cancelled"/>
+		<type id="15012" des ="agreed to your transaction request"/>
+		<type id="15013" des ="You agree with"/>
+		<type id="15014" des ="the transaction request"/>
+		<type id="15015" des ="You unlocked the lock, and the other person's lock was also released."/>
+		<type id="15016" des ="Unlocked, your lock is also cancelled"/>
+		<type id="15017" des ="You are currently trading"/>
+		<type id="15018" des ="The other party is currently trading"/>
+		<type id="15019" des = "Can't trade with yourself"/>
+		<type id="15020" des ="Transaction request has been sent, waiting for the other party to respond"/>
+		<type id="15021" des = "Exception in transaction data, transaction closed"/>
+		<type id="15022" des = "transaction successful"/>
+		<type id="15023" des ="Insufficient Space, Cancellation" />
+		<type id="15024" des ="You are out of space, transaction cancelled"/>
+		<type id="15025" des ="You cancelled the transaction"/>
+		<type id="15026" des ="You have confirmed the transaction"/>
+		<type id="15027" des="Cancel Transaction"/>
+		<type id="15028" des="identified deal"/>
+		<type id="15029" des="The number of gold coins entered is greater than the number owned."/>
+		<type id="15030" des="Cannot place more items"/>
+		<type id="15031" des="You are currently in a red name and cannot be traded."/>
+		<type id="15032" des="Cannot Trade with Red Name Players"/>
+		<type id="15033" des="No trading props"/>
+	</sort>
+	
+	<sort name="BUFF"><!--id 16001 - 16500-->
+		<type id="16001" des="buff does not exist"/>
+		<type id="16002" des="buff does not have click effect"/>
+	</sort>
+	
+	<sort name="Feature preview"><!--id 16101 - 16200-->
+		<type id="16101" des="Insufficient grade, %s% can receive"/>
+	</sort>
+	
+	<sort name="Market"><!--id 16601 - 16700-->
+		<type id="16601" des="In the cross-service, the market function cannot be used"/>
+		<type id="16602" des="Incorrect classification"/>
+		<type id="16603" des="Condition sending error"/>
+		<type id="16604" des="Incorrect quantity entered"/>
+		<type id="16605" des="Bind items cannot be traded"/>
+		<type id="16606" des="This item cannot be placed on the market for trading"/>
+		<type id="16607" des="The current item is full and can't continue on the shelf."/>
+		<type id="16608" des="The selling price cannot be lower than 2"/>
+		<type id="16609" des="Product does not exist or has been removed or sold"/>
+		<type id="16610" des="Our products cannot be purchased"/>
+		<type id="16611" des="Cannot drop your own product."/>
+		<type id="16612" des="Expired Products"/>
+		<type id="16613" des=" Dear player, one of the consignment items expired during your downline and the system has been automatically discontinued. Please check!"/>
+		<type id="16614" des="Dear player, you have a consignment item expired and the system will automatically drop it. Please check carefully."/>
+		<type id="16615" des="Sales%s%Amount:%n%,Sale Price#F{c=0x3399ff}%m%#FDiamonds"/>
+		<type id="16616" des="purchase"/>
+		<type id="16617" des="[Sales record] %t% player [%p%] purchased %i% at your booth, quantity:%n%, get diamond: %z%#b (System has been Receive your transaction tax, diamond: %m%)"/>
+		<type id="16618" des="[Purchase Records] %t% You purchased %i% in the player's [%p%] booth, Quantity: %n%, Spend Diamond: %z%"/>
+		<type id="16619" des="Limited time props can't be placed on the shelf"/>
+		<type id="16620" des="Drink too frequently. Please try again later"/>
+		<type id="16621" des="Products with the same account cannot be purchased"/>
+	</sort>
+	
+	
+	<sort name="VIP"><!--id 16701 - 16800-->
+		<type id="16701" des="No equipment to redeem"/>
+		<type id="16702" des="This item cannot be used to redeem points"/>
+		<type id="16703" des="No desired point product"/>
+		<type id="16704" des="Limited goods, your number of times is less than"/>
+		<type id="16705" des="Become a VIP to purchase products"/>
+		<type id="16706" des="No corresponding tab page"/>
+		<type id="16707" des="Insufficient Points"/>
+		<type id="16708" des="The number of inputs is incorrect"/>
+	</sort>
+	
+	
+	<sort name="Server"><!--id 17001 - 18000-->
+		<type id="17001" des="[Vip%v%]"/>
+		<type id="17002" des="My Hero"/>
+		<type id="17003" des="#BServer message: "/>
+		<type id="17004" des="You have been banned, please contact the administrator"/>
+		<type id="17005" des="Level 30 can use nearby chats"/>
+		<type id="17006" des="Level 50 can use world chat"/>
+		<type id="17007" des="Level 80 to use the trading channel"/>
+		<type id="17008" des="#B Welcome to Mu Europe .#B Be careful about self-protection. Be careful not to be deceived. #B Moderate game benefit brains, addicted to game injury. #B Reasonably arrange time and enjoy a healthy life."/>
+		<type id="17009" des="There are too many shields, please remove them first"/>
+		<type id="17010" des="The opponent is already in the blocked list"/>
+		<type id="17011" des="Can't block yourself"/>
+		<type id="17012" des="The partner is already in the blocked list"/>
+		<type id="17013" des="The opponent is in the blocked list, please remove it first"/>
+		<type id="17014" des="The speed is too fast, please try again later"/>
+		<type id="17015" des="Can't talk privately"/>
+	</sort>
+	
+	<sort name="Add"><!--id 18001 - 19000-->
+		
+	</sort>
+	
+	<sort name="Guild"><!--id 19001 - 20000-->
+		<type id="19001" des="You are already in the team"/>
+		<type id="19002" des="Current Team Bonus %n%%"/>
+		<type id="19003" des="You are not the captain"/>
+		<type id="19004" des="Team Full"/>
+		<type id="19005" des="%n%Already have a team"/>
+		<type id="19006" des="Player is not in the team"/>
+		<type id="19007" des="You and the player are already in the same team"/>
+		<type id="19008" des="%n% left the team and the team automatically disbanded"/>
+		<type id="19009" des="The other party's team no longer exists"/>
+		<type id="19010" des="Accept"/>
+		<type id="19011" des="reject"/>
+		<type id="19012" des="%n% invited you to the team. You will leave the current team. Do you agree?"/>
+		<type id="19013" des="team invitation"/>
+		<type id="19014" des="%n% rejected your team invitation"/>
+		<type id="19015" des="%n% rejected your team application"/>
+		<type id="19016" des="You created a team"/>
+		<type id="19017" des="You have joined the team"/>
+		<type id="19018" des="%n% joined the team"/>
+		<type id="19019" des="You left the team"/>
+		<type id="19020" des="You left the team and the team disbands automatically."/>
+		<type id="19021" des="%n% left the team"/>
+		<type id="19022" des="%n% left the team and the team disbanded automatically"/>
+		<type id="19023" des="You were asked by the captain to leave the team"/>
+		<type id="19024" des="%n% was asked by the captain to leave the team"/>
+		<type id="19025" des="You become the new captain"/>
+		<type id="19026" des="%n% Become New Captain"/>
+		<type id="19027" des="Current map cannot be teamed"/>
+		<type id="19028" des="The team has been dismissed"/>
+		<type id="19029" des="The team has already been sent a team application"/>
+		<type id="19030" des="Send teammate invitations to partner"/>
+	</sort>
+	
+	<sort name="Experience"><!--id 20001 - 21000-->
+		<type id="20001" des="Get #c:{0x00cc00}%n%#cExperience"/>
+		<type id="20002" des="Get %n% Master Experience"/>
+		<type id="20003" des="Get %n% Gold Coin"/>
+		<type id="20004" des="Get #c:{%c%}%n%#c"/>
+		<type id="20005" des="#c:{0x00cc00}%s%#cProficiency increase #c:{0x00cc00}%n%#cPoints"/>
+	</sort>
+	<sort name="Wings"><!--id 21001 - 22000-->
+		<type id="21001" des="Wings do not exist."/>
+		<type id="21002" des="Insufficient wings, etc., Wing activation failed."/>
+		<type id="21003" des="Soul Eater is full, please upgrade wings"/>
+		<type id="21004" des="Unknown Soul Eater, Please Soul Eater Wings"/>
+		<type id="21005" des="advanced failure, insufficient props"/>
+		<type id="21006" des="advanced failure, insufficient diamonds"/>
+		<type id="21007" des="Soul Eater Fails, Missing Items"/>
+		<type id="20008" des="Get #c:{0x00cc00}%n%#cFortunate value"/>
+		<type id="20009" des="Max. reached usage limit"/>
+	</sort>
+	<sort name="Mercenary"><!--id 22001 - 23000-->
+		<type id="22001" des="The mercenary failed to open and the item was insufficient"/>
+		<type id="22002" des="Not enough grades, can't rise to step"/>
+		<type id="22003" des="The number of attribute upgrades is incorrect"/>
+		<type id="22004" des="Attribute not found"/>
+		<type id="22005" des="Attribute Level"/>
+		<type id="22006" des="Attribute Upgrade Failed, Item Missing"/>
+		<type id="22007" des="Failed to Play, Death Chills..."/>
+		<type id="22008" des="The attribute level has reached the current level limit"/>
+		<type id="22009" des="The mercenary rank is full"/>
+		<type id="22010" des="Current map mercenary cannot play"/>
+		<type id="22011" des="Blessings increase %s%"/>
+		<type id="22012" des="The mercenary function is not turned on"/>
+		<type id="22013" des="The current rank of the mercenary is greater than the equal order you want to ascend"/>
+	</sort>
+	<sort name="Item">
+		<type id="23001" des="Item does not exist"/>
+		<type id="23003" des="Insufficient coins"/>
+		<type id="23004" des="Less Money"/>
+		<type id="23005" des="Insufficient Points"/>
+		<type id="23006" des="Knapsack Full"/>
+		<type id="23007" des="Recharge"/>
+		<type id="23008" des="Insufficient diamonds, do you want to top up?"/>
+		<type id="23009" des="HINT"/>
+		<type id="23010" des="%s% insufficient quantity, whether to purchase "/>
+	</sort>
+	<sort name="VIP">
+		<type id="23100" des="Please activate VIP"/>
+		<type id="23101" des="Blue Diamond Renewal Event"/>
+		<type id="23102" des="Renewal Blue Diamond Event Giving Item" />
+		
+	</sort>
+	<sort name="Treasure Hunt on the 7th">
+		<type id="23201" des="This location has already been searched for treasure"/>
+		<type id="23202" des="The number of diggers available today has been exhausted" />	
+	</sort>
+	<sort name="Received">
+		<type id="23200" des="This product has been purchased"/>
+		<type id="23201" des="This award has been received"/>
+	</sort>
+	
+	<sort name="Level">
+		<type id="23301" des="You are already the highest level"/>
+		<type id="23302" des="Mission is not turned on"/>
+		<type id="23303" des="The maximum number of use of this item"/>
+		<type id="23304" des="Miscellaneous orders"/>
+		<type id="23305" des="The equipment type cannot be used to upgrade the hero"/>
+		<type id="23306" des="is not an excellent equipment and cannot be used to upgrade the hero"/>
+		<type id="23307" des="No equipment selected"/>
+		<type id="23308" des="The number of diamonds on the day is too low to quench."/>
+		<type id="23309" des="spend %s% diamond or %f% tie drill"/>
+	</sort>
+	
+	<sort name="Rank + Rules">
+		<type id="23401" des="Currently the maximum rank"/>
+		<type id="23402" des="Current quenching value is not full and cannot be upgraded"/>
+		<type id="23403" des="The current expedition level is insufficient and cannot be raised."/>
+		<type id="23404" des="Current level is full"/>
+		<type id="23405" des="Rules function not turned on"/>
+		<type id="23406" des="Next level requires expedition to reach %s% level"/>
+		<type id="23407" des="Exploration experience increased by %s%"/>
+		<type id="23408" des="Insufficient funds to earn betting opportunities"/>
+		<type id="23409" des="The Lucky Wheel has not been opened or ended"/>
+		<type id="23410" des="You have been betting the maximum number of times and you cannot turn the dial"/>
+		<type id="23411" des="Become V4, get 3 additional betting opportunities"/>
+		<type id="23412" des="Not enough diamonds to turn the dial"/>
+	</sort>
+	
+	<sort name="Task">
+		<type id="24101" des="The task does not exist"/>
+		<type id="24102" des="Features not yet turned on"/>
+		<type id="24103" des="Reward does not exist"/>
+		<type id="24104" des="Not enough activity"/>
+		<type id="24105" des="Incentives Received"/>
+		<type id="24106" des="Backpack Full"/>
+	</sort>
+	<sort name="Online">
+		<type id="24201" des="Accumulated online this week to get bound diamond %d"/>
+	</sort>
+	
+	<sort name="Welcome">
+		<type id="24001" des="The brave new forces created on the mainland, and the #F{c=0xCC33FF}%s%#F war league was established!"/>
+		<type id="24002" des="New forces created in the brave mainland, and a #F{e=12}%s%#F war league was established! %m%"/>
+		<type id="24003" des="#F{c=0x66CC33}%b%#F with lots of treasures appearing in %m%#F{c=0x66CC33}[Line 1]#F"/>
+		<type id="24004" des="[%g%]'s ally %d% is killed by %k% in #F{c=0x66CC33}%m%#F"/>
+		<type id="24005" des="[%g%]'s affiliate %d% is killed by %k% in #F{c=0x66CC33}%m%#F"/>
+		<type id="24006" des="%n% reinforces %m% to #F{c=0x66CC33}%s%#F, %k%"/>	
+		<type id="24007" des="I want to reinforce"/>
+		<type id="24008" des="%n% Append %m% to #F{c=0x66CC33}%s%#F, %k%"/>
+		<type id="24009" des="I want to add"/>
+		<type id="24010" des="Congratulations %n% successfully synthesize %m%, %s% %k%" />
+		<type id="24011" des="I want to synthesize"/>	
+		<type id="24012" des="%n%Enforce %m% to #F{c=0x66CC33}%s%#F"/>
+		<type id="24013" des="%n% append %m% to #F{c=0x66CC33}%s%#F class"/>
+		<type id="24014" des="Congratulations on %n% successfully synthesize %m%,%s%"/>
+		<type id="24015" des="Failed to #F{c=0xCC33FF}%s%#F squad upgrade for #F{c=0x66CC33}%m%#F"/>
+	</sort>
+	<sort name="Bonus">
+		<type id="25001" des="Incorrect Activation Code"/>
+		<type id="25002" des="The system is busy, please try again later"/>
+		<type id="25003" des="This activation code has been used"/>
+		<type id="25004" des="You have already received this package"/>				
+	</sort>
+	<sort name="Diamond">
+		<type id="25101" des="This reward has been collected"/>
+		<type id="25102" des="Insufficient Recharge Amount"/>
+		<type id="25103" des="Special Event"/>
+		<type id="25104" des="Are you sure you want to spend %s% diamonds to claim this special package"/>
+		<type id="25105" des="%s% Received the first pack of splendid and won the First Strike weapon and other massive rewards %d%"/>
+		<type id="25106" des="I also want to receive"/>
+	</sort>
+	<sort name="Title">
+		<type id="25201" des="You already have this title"/>
+		<type id="25202" des="The title does not exist"/>	
+	</sort>
+</message>

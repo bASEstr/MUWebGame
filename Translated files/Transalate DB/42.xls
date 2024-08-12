@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<root version="奇迹10" sysID="2" configName="物品类型配置" configId="42">
+<levelup level="8" delay = "50">
+			<action type="learnSkill" value="0,10001;1,20001;2,30009"/>
+    </levelup>
+	<levelup level="20" delay = "50">
+			<action type="learnSkill" value="0,10009;1,20009;2,30010"/>
+    </levelup>
+	<levelup level="35" delay = "50">
+			<action type="learnSkill" value="0,10003;1,20003;2,30001"/>
+    </levelup>
+	<levelup level="145" delay = "50">
+			<action type="pointMenu" value="24##Collect excellent equipment and receive superb titles"/>
+    </levelup>
+	<levelup level="150" delay = "50">
+			<action type="pointMenu" value="24##Collect excellent equipment and receive superb titles"/>
+    </levelup>
+	<levelup level="160" delay = "50">
+			<action type="pointMenu" value="24##Collect excellent equipment and receive superb titles"/>
+    </levelup>
+	<levelup level="170" delay = "50">
+			<action type="pointMenu" value="24##Collect excellent equipment and receive superb titles"/>
+    </levelup>
+	<levelup level="180" delay = "50">
+			<action type="pointMenu" value="24##Collect excellent equipment and receive superb titles"/>
+    </levelup>
+	<levelup level="190" delay = "50">
+			<action type="pointMenu" value="24##Collect excellent equipment and receive superb titles"/>
+    </levelup>
+	<levelup level="200" delay = "50">
+			<action type="pointMenu" value="24##Collect excellent equipment and receive superb titles"/>
+    </levelup>
+</root>
