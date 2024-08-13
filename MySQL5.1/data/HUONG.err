@@ -1,0 +1,66 @@
+150925 19:37:06 [Note] Plugin 'FEDERATED' is disabled.
+150925 19:37:07  InnoDB: Started; log sequence number 0 44233
+150925 19:37:07 [Note] Event Scheduler: Loaded 0 events
+150925 19:37:07 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150925 19:37:44 [Note] Plugin 'FEDERATED' is disabled.
+150925 19:37:44  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+150925 19:37:51 [Note] Plugin 'FEDERATED' is disabled.
+150925 19:37:51  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+150925 19:37:56 [Note] Plugin 'FEDERATED' is disabled.
+150925 19:37:57  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+150925 19:55:10 [Note] bin\mysqld.exe: Normal shutdown
+
+150925 19:55:10 [Note] Event Scheduler: Purging the queue. 0 events
+150925 19:55:12 [Warning] bin\mysqld.exe: Forcing close of thread 9  user: 'root'
+
+150925 19:55:12 [Warning] bin\mysqld.exe: Forcing close of thread 5  user: 'root'
+
+150925 19:55:12 [Warning] bin\mysqld.exe: Forcing close of thread 4  user: 'root'
+
+150925 19:55:12  InnoDB: Starting shutdown...
+150925 19:55:17  InnoDB: Shutdown completed; log sequence number 0 44233
+150925 19:55:17 [Note] bin\mysqld.exe: Shutdown complete
+
+151018 21:52:45 [Note] Plugin 'FEDERATED' is disabled.
+151018 21:52:47  InnoDB: Started; log sequence number 0 44233
+151018 21:52:48 [Note] Event Scheduler: Loaded 0 events
+151018 21:52:48 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+151018 22:18:43 [Note] bin\mysqld.exe: Normal shutdown
+
+151018 22:18:43 [Note] Event Scheduler: Purging the queue. 0 events
+151018 22:18:45 [Warning] bin\mysqld.exe: Forcing close of thread 13  user: 'root'
+
+151018 22:18:45 [Warning] bin\mysqld.exe: Forcing close of thread 12  user: 'root'
+
+151018 22:18:45 [Warning] bin\mysqld.exe: Forcing close of thread 11  user: 'root'
+
+151018 22:18:45  InnoDB: Starting shutdown...
+151018 22:18:47  InnoDB: Shutdown completed; log sequence number 0 44233
+151018 22:18:47 [Note] bin\mysqld.exe: Shutdown complete
+
+151201 18:39:59 [Note] Plugin 'FEDERATED' is disabled.
+151201 18:40:00  InnoDB: Started; log sequence number 0 44233
+Can't start server: Bind on TCP/IP port: No such file or directory
+151201 18:40:00 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+151201 18:40:00 [ERROR] Aborting
+
+151201 18:40:00  InnoDB: Starting shutdown...
+151201 18:40:05  InnoDB: Shutdown completed; log sequence number 0 44233
+151201 18:40:06 [Note] bin\mysqld.exe: Shutdown complete
+
+151201 18:49:17 [Note] Plugin 'FEDERATED' is disabled.
+151201 18:49:18  InnoDB: Started; log sequence number 0 44233
+151201 18:49:18 [Note] Event Scheduler: Loaded 0 events
+151201 18:49:18 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)

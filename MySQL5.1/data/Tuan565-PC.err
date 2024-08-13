@@ -1,0 +1,132 @@
+161201 21:44:45 [Note] Plugin 'FEDERATED' is disabled.
+161201 21:44:46  InnoDB: Started; log sequence number 0 44233
+161201 21:44:46 [Note] Event Scheduler: Loaded 0 events
+161201 21:44:46 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161202 21:23:18 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161202 21:23:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161202 21:23:19  InnoDB: Started; log sequence number 0 44243
+161202 21:23:20 [Note] Event Scheduler: Loaded 0 events
+161202 21:23:20 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161210 22:52:55 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161210 22:52:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161210 22:52:56  InnoDB: Started; log sequence number 0 44243
+Can't start server: Bind on TCP/IP port: No such file or directory
+161210 22:52:56 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+161210 22:52:56 [ERROR] Aborting
+
+161210 22:52:56  InnoDB: Starting shutdown...
+161211  0:48:17 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161211  0:48:17  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161211  0:48:18  InnoDB: Started; log sequence number 0 44243
+161211  0:48:18 [Note] Event Scheduler: Loaded 0 events
+161211  0:48:18 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161211  1:15:50 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161211  1:15:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161211  1:15:50  InnoDB: Started; log sequence number 0 9002004
+161211  1:15:50 [Note] Event Scheduler: Loaded 0 events
+161211  1:15:50 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161211  1:22:19 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+161211  1:22:19  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+161211  1:22:20  InnoDB: Started; log sequence number 0 13552022
+161211  1:22:20 [Note] Event Scheduler: Loaded 0 events
+161211  1:22:20 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+161211  1:23:33 [Note] Plugin 'FEDERATED' is disabled.
+161211  1:23:33  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+161218 16:27:15 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: Log scan progressed past the checkpoint lsn 0 13625687
+161218 16:27:15  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+InnoDB: Doing recovery: scanned up to log sequence number 0 13625774
+161218 16:27:15  InnoDB: Starting an apply batch of log records to the database...
+InnoDB: Progress in percents: 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 
+InnoDB: Apply batch completed
+161218 16:27:16  InnoDB: Started; log sequence number 0 13625774
+161218 16:27:16 [Note] Event Scheduler: Loaded 0 events
+161218 16:27:16 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+170112 22:11:27 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+170112 22:11:27  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+170112 22:11:28  InnoDB: Started; log sequence number 0 13670763
+170112 22:11:28 [Note] Event Scheduler: Loaded 0 events
+170112 22:11:28 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+170112 22:11:44 [Note] Plugin 'FEDERATED' is disabled.
+170112 22:11:45  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+170112 22:11:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+180321 12:23:28 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180321 12:23:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180321 12:23:28  InnoDB: Started; log sequence number 0 15015831
+180321 12:23:28 [Note] Event Scheduler: Loaded 0 events
+180321 12:23:28 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180321 12:28:28 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180321 12:28:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180321 12:28:29  InnoDB: Started; log sequence number 0 35050020
+180321 12:28:29 [Note] Event Scheduler: Loaded 0 events
+180321 12:28:29 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)

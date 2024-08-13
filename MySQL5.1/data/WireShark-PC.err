@@ -1,0 +1,72 @@
+180322  7:39:23 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180322  7:39:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180322  7:39:25  InnoDB: Started; log sequence number 0 56552418
+180322  7:39:25 [Note] Event Scheduler: Loaded 0 events
+180322  7:39:25 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180322  8:33:22 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180322  8:33:22  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180322  8:33:23  InnoDB: Started; log sequence number 0 56999683
+180322  8:33:23 [Note] Event Scheduler: Loaded 0 events
+180322  8:33:23 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180322  9:41:41 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180322  9:41:41  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180322  9:41:42  InnoDB: Started; log sequence number 0 58204610
+180322  9:41:42 [Note] Event Scheduler: Loaded 0 events
+180322  9:41:42 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180324 12:26:08 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180324 12:26:08  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180324 12:26:09  InnoDB: Started; log sequence number 0 59045827
+180324 12:26:09 [Note] Event Scheduler: Loaded 0 events
+180324 12:26:09 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180324 12:26:50 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180324 12:26:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180324 12:26:51  InnoDB: Started; log sequence number 0 59045827
+180324 12:26:51 [Note] Event Scheduler: Loaded 0 events
+180324 12:26:51 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+180324 13:00:29 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+180324 13:00:30  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+180324 13:00:33  InnoDB: Started; log sequence number 0 59278942
+180324 13:00:33 [Note] Event Scheduler: Loaded 0 events
+180324 13:00:33 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)

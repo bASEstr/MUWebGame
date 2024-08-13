@@ -1,0 +1,12 @@
+150525 11:20:58 [Note] Plugin 'FEDERATED' is disabled.
+150525 11:21:00  InnoDB: Started; log sequence number 0 44233
+150525 11:21:03 [Note] Event Scheduler: Loaded 0 events
+150525 11:21:03 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.1.45-community'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150525 12:31:44 [Note] bin\mysqld.exe: Normal shutdown
+
+150525 12:31:44 [Note] Event Scheduler: Purging the queue. 0 events
+150525 12:31:45  InnoDB: Starting shutdown...
+150525 12:31:46  InnoDB: Shutdown completed; log sequence number 0 44233
+150525 12:31:46 [Note] bin\mysqld.exe: Shutdown complete
+
